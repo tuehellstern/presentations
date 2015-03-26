@@ -79,7 +79,9 @@ The ngram doesn't give you this. But the historian Tim Hitchcock does.
 [Hitchcock, 'Big data, small meanings'](http://historyonics.blogspot.co.uk/2014/11/big-data-small-data-and-meaning_9.html)
 
 
-Every choice you make - about what to collect, how to collect it, how you munge it, how you clean it, how you represent it - depends on your worldview. That is to say, theory helps us unpack worldviews and their artefacts.
+Every choice you make - about what to collect, how to collect it, how you munge it, how you clean it, how you represent it - depends on your worldview. 
+
+That is to say, theory helps us unpack worldviews and their artefacts.
 
 
 ### Big data needs the humanities
@@ -159,4 +161,4 @@ Shawn Graham [@electricarchaeo](http://twitter.com/electricarchaeo)
 
 shawn dot graham at carleton dot ca
 
-
+(background image: [Paper Machines](http://metalab.harvard.edu/2012/07/paper-machines/))
