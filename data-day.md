@@ -147,6 +147,7 @@ Much much data! Drawn from climatological records
 
 + I map historical consciousness online
 + I simulate social processes of the past, grounded in archaeological data
++ I do computational historiography (aka topic modeling archaeological archives)
 
 
 ## Shameless Plug
