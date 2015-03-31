@@ -99,11 +99,10 @@ That is to say, theory helps us unpack worldviews and their artefacts.
 
 ### Big data needs the humanities
 
-+ [Dalton and Thatcher - 'What does a critical data studies look like, and why do we care? Seven points for a critical approach to big data'](http://societyandspace.com/material/commentaries/craig-dalton-and-jim-thatcher-what-does-a-critical-data-studies-look-like-and-why-do-we-care-seven-points-for-a-critical-approach-to-big-data/)
-
+![https://andrewsidea.files.wordpress.com/2009/06/ratatouille1.jpg](https://andrewsidea.files.wordpress.com/2009/06/ratatouille1.jpg)
 + Remember, data are always cooked. Think of us as food critics.
- 
 
+ 
 ### Nah. Not critics. 
 ## Actually, we're storytellers
 
