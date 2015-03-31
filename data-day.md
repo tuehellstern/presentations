@@ -6,7 +6,7 @@
 
 ### Big Data Has Ever Been With Us
 
-![Troy](https://www.dropbox.com/sc/7yxx6sh8iadgy67/AAB0Db0G8WSatlALq6k2KdGba)
+![Troy](https://dl.dropboxusercontent.com/u/37716296/troy_pba_pottery_tent.jpg)
 
 
 ![montetestaticcio](https://nulladiessinelinea.files.wordpress.com/2008/05/il-monte-testaccio.jpg)
