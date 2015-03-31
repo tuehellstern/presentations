@@ -156,6 +156,7 @@ That's why Humanities & Big Data are not in competition.
 
 
 ![stream](https://dl.dropboxusercontent.com/u/37716296/Screen%20Shot%202015-03-31%20at%209.45.22%20AM.png)
+
 + I do computational historiography (aka topic modeling archaeological archives)
 
 
