@@ -6,6 +6,9 @@
 
 ### Big Data Has Ever Been With Us
 
+![Troy](https://www.dropbox.com/sc/7yxx6sh8iadgy67/AAB0Db0G8WSatlALq6k2KdGba)
+
+
 ![montetestaticcio](https://nulladiessinelinea.files.wordpress.com/2008/05/il-monte-testaccio.jpg)
 
 <small> Monte Testaccio, 19th C, Rome: one giant repository of archaeological data. 
