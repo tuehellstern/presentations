@@ -49,7 +49,9 @@ Note: archae & history brings to big data ideas of context, of 4 dimensional rep
 ![captpiper](https://farm2.staticflickr.com/1232/558309858_cbee42a37c_z.jpg)
 <small>Flickr user 'CaptPiper' https://www.flickr.com/photos/piper/558309858/sizes/l</small>
 
-You can't just turn on the hose. 'Big Data' are data that are too big for you to deal with using your 'regular' methodology. 
+You can't just turn on the hose. 
+
+'Big Data' are data that are too big for you to deal with using your 'regular' methodology. 
 
 
 ### That's why folks like Ian Milligan
@@ -78,7 +80,7 @@ You can't just turn on the hose. 'Big Data' are data that are too big for you to
 
 
 ## Patterns of Discourse about 'Accessibility' & Digital History on Blogs (HIST4910)
-![pic](https://dl.dropboxusercontent.com/u/37716296/VIS_IADAA%20Connections%20and%20Business-Transaction%20Relationships-1427767673575.jpg)
+![pic](https://dl.dropboxusercontent.com/u/37716296/hollis-blog-posts.png)
 
 
 ## 'Data Speak for Themselves'?
