@@ -6,9 +6,8 @@
 <section data-background="https://dl.dropboxusercontent.com/u/37716296/troy_pba_pottery_tent.jpg">
 
 
-### Big Data Has Ever Been With Us
-Troy
-
+>Big Data Has Ever Been With Us
+c Projekt Troia. Photo: Gebhard Bieg
 
 
 <small> Monte Testaccio, 19th C, Rome: one giant repository of archaeological data. 
