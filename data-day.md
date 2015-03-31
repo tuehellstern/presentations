@@ -170,4 +170,4 @@ Shawn Graham [@electricarchaeo](http://twitter.com/electricarchaeo)
 
 shawn dot graham at carleton dot ca
 
-(background image: [Paper Machines](http://metalab.harvard.edu/2012/07/paper-machines/))
+(background image: Chris Johnson-Roberson, Stream graph of a topic model of 1000s of papers related to land reform, generated via [Paper Machines](http://metalab.harvard.edu/2012/07/paper-machines/))
