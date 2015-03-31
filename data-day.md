@@ -100,6 +100,7 @@ That is to say, theory helps us unpack worldviews and their artefacts.
 ### Big data needs the humanities
 
 + [Dalton and Thatcher - 'What does a critical data studies look like, and why do we care? Seven points for a critical approach to big data'](http://societyandspace.com/material/commentaries/craig-dalton-and-jim-thatcher-what-does-a-critical-data-studies-look-like-and-why-do-we-care-seven-points-for-a-critical-approach-to-big-data/)
+
 + Remember, data are always cooked. Think of us as food critics.
  
 
@@ -112,11 +113,14 @@ That's why Humanities & Big Data are not in competition.
 >They are complementary. Together, they tell a better story.
 
 
+![hooke](http://upload.wikimedia.org/wikipedia/commons/c/c2/Hooke-microscope.png)
 + the tools of big data allow me a macroscopic view on my materials
 + they help me figure out where to focus my microscope
 
 
 + and the microscope tells me where the macroscope needs adjusting.
+![steampunk](https://img0.etsystatic.com/033/0/5218312/il_570xN.524549120_7ibc.jpg)
+<small>steampunk goggles, edmdesigns https://www.etsy.com/ca/listing/168920770/steampunk-goggles-antique-american</small>
 
 
 ### (And help us avoid just-so stories)
