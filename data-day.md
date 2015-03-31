@@ -3,8 +3,7 @@
 <Br>
 <br>
 <br>
-<br>
-<br>
+
 Follow along on your device: http://j.mp/sg-dataday
 <small>alt+click zooms in on any image</small>
 
