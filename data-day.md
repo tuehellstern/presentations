@@ -9,7 +9,7 @@
 <section data-background="https://dl.dropboxusercontent.com/u/37716296/troy_pba_pottery_tent.jpg">
 
 
-![montetestaticcio](https://nulladiessinelinea.files.wordpress.com/2008/05/il-monte-testaccio.jpg)
+<section data-background="https://nulladiessinelinea.files.wordpress.com/2008/05/il-monte-testaccio.jpg">
 
 <small> Monte Testaccio, 19th C, Rome: one giant repository of archaeological data. 
 
