@@ -1,13 +1,14 @@
 ## History: 
 #The Original Big Data
 <small> shawngraham.github.io/presentations/data-day.html</small>
+Follow along: short url-> http://j.mp/sg-dataday
 
 
 ### or why this archaeologist-cum-historian is speaking to you today.
 <section data-background="https://dl.dropboxusercontent.com/u/37716296/troy_pba_pottery_tent.jpg">
 
 
-c Projekt Troia. Photo: Gebhard Bieg
+c
 
 
 ### Big Data Has Ever Been With Us
@@ -65,15 +66,15 @@ You can't just turn on the hose. 'Big Data' are data that are too big for you to
 
 
 ## Reddit's Historical Consciousness (HIST3907b)
-![pic](#)
+![matt t v3](https://dl.dropboxusercontent.com/u/37716296/matttaylor.png)
 
 
-## Networks of Antiquities Dealers (Hist4805b)
-![pic](#)
+## Trading Artefacts: Networks of Antiquities Dealers (Hist4805b)
+![pic](https://dl.dropboxusercontent.com/u/37716296/VIS_IADAA%20Connections%20and%20Business-Transaction%20Relationships-1427767673575.jpg)
 
 
-## Women's social networks constructing the War of 1812 as something worth commemmorating... in 1912!
-![pic](#)
+## Patterns of Discourse about 'Accessibility' & Digital History on Blogs (HIST4910)
+![pic](https://dl.dropboxusercontent.com/u/37716296/VIS_IADAA%20Connections%20and%20Business-Transaction%20Relationships-1427767673575.jpg)
 
 
 ## 'Data Speak for Themselves'?
@@ -106,20 +107,24 @@ That is to say, theory helps us unpack worldviews and their artefacts.
  
 ### Nah. Not critics. 
 ## Actually, we're storytellers
+![princessbride](http://cdn.theatlantic.com/static/mt/assets/culture_test/kelly_storytelling_post.jpg)
 
 That's why Humanities & Big Data are not in competition.
 
 
->They are complementary. Together, they tell a better story.
+### They are complementary. 
+### Together, they tell a better story.
 
 
 ![hooke](http://upload.wikimedia.org/wikipedia/commons/c/c2/Hooke-microscope.png)
+
 + the tools of big data allow me a macroscopic view on my materials
 + they help me figure out where to focus my microscope
 
 
 + and the microscope tells me where the macroscope needs adjusting.
 ![steampunk](https://img0.etsystatic.com/033/0/5218312/il_570xN.524549120_7ibc.jpg)
+
 <small>steampunk goggles, edmdesigns https://www.etsy.com/ca/listing/168920770/steampunk-goggles-antique-american</small>
 
 
@@ -134,10 +139,14 @@ That's why Humanities & Big Data are not in competition.
 ![minion](https://pbs.twimg.com/profile_images/411694091538165760/WO9XkQZa.jpeg)
 
 + I explore the tools themselves, & help others to use them wisely
++ http://electricarchaeology.ca
 
 
 + I map historical consciousness online
 + I simulate social processes of the past, grounded in archaeological data
+
+
+![stream](https://dl.dropboxusercontent.com/u/37716296/Screen%20Shot%202015-03-31%20at%209.45.22%20AM.png)
 + I do computational historiography (aka topic modeling archaeological archives)
 
 
