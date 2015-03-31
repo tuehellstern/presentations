@@ -12,11 +12,13 @@ c Projekt Troia. Photo: Gebhard Bieg
 ### Big Data Has Ever Been With Us
 + previous slide: Projeck Troia, Photo: Gebhard Bieg.
 + Think of the sheer variety of experience that created that data!
+
 ![http://www.livius.org/a/1/maps/troy_section.gif](http://www.livius.org/a/1/maps/troy_section.gif)
 
 
 <small> Monte Testaccio, 19th C, Rome: one giant repository of archaeological data. 
 ![montetestaccio](https://nulladiessinelinea.files.wordpress.com/2008/05/il-monte-testaccio.jpg)
+
 20 000 m2, 35 m high, 580 000 m3.</small>
 
 
@@ -27,6 +29,7 @@ c Projekt Troia. Photo: Gebhard Bieg
 ### Thinking in 4D
 ![http://www.museumsassociation.org/asset_arena/7/49/31/713947/v0_full.jpg](http://www.museumsassociation.org/asset_arena/7/49/31/713947/v0_full.jpg)
 <small>Emily Pankhurst gets dragged away from Buckingham palace, StreetMuseum, MoL.</small>
+
 ^Note: archae & history brings to big data ideas of context, of 4 dimensional representations of data, of narrative and change over time. broadly, archae & history think about problems of conservation over time, of preserving now in formats to allow qs haven't thought of using techs haven't invented yet.
 
 
