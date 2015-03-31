@@ -12,7 +12,7 @@ Follow along on your device: http://j.mp/sg-dataday
 <section data-background="https://dl.dropboxusercontent.com/u/37716296/troy_pba_pottery_tent.jpg">
 
 
-c
+.
 
 
 ### Big Data Has Ever Been With Us
@@ -30,7 +30,7 @@ c
 20 000 m2, 35 m high, 580 000 m3.</small>
 
 
-### Think how much data Carp Landfill contains!
+### Think how much data the Carp Landfill contains!
 ![image](http://stittsvillecentral.ottawastartinter.netdna-cdn.com/wp-content/uploads/2014/09/20140825_150613-1038x518.jpg)
 
 
