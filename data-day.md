@@ -1,5 +1,6 @@
 ## History: 
 #The Original Big Data
+<small> shawngraham.github.io/presentations/data-day.html</small>
 
 
 ### or why this archaeologist-cum-historian is speaking to you today.
@@ -46,32 +47,39 @@ Note: archae & history brings to big data ideas of context, of 4 dimensional rep
 You can't just turn on the hose. 'Big Data' are data that are too big for you to deal with using your 'regular' methodology. 
 
 
-## 'Data Speak for Themselves'
+### That's why folks like Ian Milligan
+## are inventing new ways to do history, digitally
+![ian's slide](https://ianmilli.files.wordpress.com/2015/03/milligan_lt_big_data.png?w=665&h=499)
++ Between 1996 and 2009, it ammased > 38 million pages
++ 2009, Yahoo nuked it. Utterly.
++ Ian's work is exploring these digital ruins.
+
+
+### That's why I'm teaching history students big history methods
+## Let's see what they're up to.
+
+
+## Government computers & Wikipedia (HIST3907b)
+![matt preliminary](http://static1.squarespace.com/static/52b0dd1ee4b0c4a73b163314/t/55197207e4b00c2cab3da85a/1427730954000/editingWikipediaPoster.png)
+
+
+## Reddit's Historical Consciousness (HIST3907b)
+![pic](#)
+
+
+## Networks of Antiquities Dealers (Hist4805b)
+![pic](#)
+
+
+## Women's social networks constructing the War of 1812 as something worth commemmorating... in 1912!
+![pic](#)
+
+
+## 'Data Speak for Themselves'?
 
 Nope. 
 
 Sorry.
-
-
-+ folks who talk about 'the end of theory' are making a profound mistake.
-+ wouldn't you like to know what the correlations you find might _mean_?
-
-
-.
-
-.
-
-.
-
-## Hire my history students.
-
-
-It's easier than ever before to measure. To measure implies control.
-> it's a kind of digital enclosure act.
-
-> once enclosed, somebody can own it.
-
-> who owns you?
 
 
 ### Data are Capta
@@ -82,31 +90,6 @@ capta - is something taken, brought in, subjective.
 
 ### What we're really talking about is
 ## Big Capta
-
-
-### for example: n-grams
-> 'Pursuit of Happiness'
-
-+ You can plot the occurrence of the phrase over time, from scanned books.
-
-
-+ But which books?
-+ How good is your scan?
-+ What is the actual _context_ of the phrase?
-
-
-> 'happiness' means different things at different times.
-
-
-+ up until 1770s, 'happiness' almost always in a religious context:
-+ "eternal happiness".
-+ therefore its use in secular context signals something new
-
-
-The ngram doesn't give you this. But the historian Tim Hitchcock does.
-
-[Hitchcock, 'Big data, small meanings'](http://historyonics.blogspot.co.uk/2014/11/big-data-small-data-and-meaning_9.html)
-
 
 Every choice you make - about what to collect, how to collect it, how you munge it, how you clean it, how you represent it - depends on your worldview. 
 
@@ -119,9 +102,7 @@ That is to say, theory helps us unpack worldviews and their artefacts.
 + Remember, data are always cooked. Think of us as food critics.
  
 
-
 ### Nah. Not critics. 
-
 ## Actually, we're storytellers
 
 That's why Humanities & Big Data are not in competition.
@@ -142,30 +123,6 @@ That's why Humanities & Big Data are not in competition.
 ![just-so](http://cdni.condenast.co.uk/426x639/a_c/38-Just-So-Stories_EL_14nov12_pr_bt.jpg)
 
 [Matthew Lincoln, 'Confabulation in the humanities'](http://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html)
-
-
-### Take Ben Schmidt's Work on Ships Logs
-
-<iframe width="600" height="400" src="https://www.youtube.com/embed/Tn7fQ5mYHPA" frameborder="0" allowfullscreen></iframe>
-
-Much much data! Drawn from climatological records
-
-
-![clusters of voyages](http://2.bp.blogspot.com/-o_jbGMEgCMM/UHCARb0sJNI/AAAAAAAADjk/beFOdBTt1Gc/s640/Maury+clusters.png)
-
-+ machine learning allows Schmidt to pull out patterns within the entire corpus
-+ implications for understanding America's power & history of capitalism
-
-.
-
-.
-
-[Reading digital sources: a case study in ship's logs](http://sappingattention.blogspot.ca/2012/11/reading-digital-sources-case-study-in.html)
-
-
-> Digitization makes the most traditional forms of humanistic scholarship more necessary, not less. But the differences mean that we need to reinvent, not reaffirm, the way that historians do history. 
-
-- Ben Schmidt
 
 
 ## My research
