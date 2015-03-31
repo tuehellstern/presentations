@@ -89,9 +89,9 @@ Sorry.
 
 
 ### Data are Capta
-datum - is something given, out there, objective
+data - things given, out there, objective
 
-capta - is something taken, brought in, subjective.
+capta - things taken, brought in, subjective.
 
 
 ### What we're really talking about is
