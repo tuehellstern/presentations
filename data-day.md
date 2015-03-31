@@ -1,4 +1,4 @@
-## Humanities: 
+## History: 
 #The Original Big Data
 
 
@@ -30,7 +30,7 @@ c Projekt Troia. Photo: Gebhard Bieg
 ![http://www.museumsassociation.org/asset_arena/7/49/31/713947/v0_full.jpg](http://www.museumsassociation.org/asset_arena/7/49/31/713947/v0_full.jpg)
 <small>Emily Pankhurst gets dragged away from Buckingham palace, StreetMuseum, MoL.</small>
 
-^Note: archae & history brings to big data ideas of context, of 4 dimensional representations of data, of narrative and change over time. broadly, archae & history think about problems of conservation over time, of preserving now in formats to allow qs haven't thought of using techs haven't invented yet.
+Note: archae & history brings to big data ideas of context, of 4 dimensional representations of data, of narrative and change over time. broadly, archae & history think about problems of conservation over time, of preserving now in formats to allow qs haven't thought of using techs haven't invented yet.
 
 
 ### Whitehouse, Champions of Change
@@ -44,6 +44,7 @@ c Projekt Troia. Photo: Gebhard Bieg
 <small>Flickr user 'CaptPiper' https://www.flickr.com/photos/piper/558309858/sizes/l</small>
 
 You can't just turn on the hose. 'Big Data' are data that are too big for you to deal with using your 'regular' methodology. 
+
 
 ## 'Data Speak for Themselves'
 
