@@ -150,7 +150,7 @@ That's why Humanities & Big Data are not in competition.
 
 
 + I map historical consciousness online
-+ I simulate social processes of the past, grounded in archaeological data
++ I simulate social processes of the past, grounded in archaeological data (agent based modeling)
 
 
 ![stream](https://dl.dropboxusercontent.com/u/37716296/Screen%20Shot%202015-03-31%20at%209.45.22%20AM.png)
