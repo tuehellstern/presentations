@@ -1,8 +1,8 @@
 ## History: 
 #The Original Big Data
-<small> shawngraham.github.io/presentations/data-day.html</small>
 
-Follow along: short url-> http://j.mp/sg-dataday
+Follow along on your device: http://j.mp/sg-dataday
+<small>alt+click zooms in on any image</small>
 
 
 ### or why this archaeologist-cum-historian is speaking to you today.
