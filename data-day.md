@@ -21,9 +21,11 @@ c
 
 ![http://www.livius.org/a/1/maps/troy_section.gif](http://www.livius.org/a/1/maps/troy_section.gif)
 
+(http://www.livius.org)
 
-<small> Monte Testaccio, 19th C, Rome: one giant repository of archaeological data. 
+
 ![montetestaccio](https://nulladiessinelinea.files.wordpress.com/2008/05/il-monte-testaccio.jpg)
+<small> Monte Testaccio, 19th C, Rome: one giant repository of archaeological data. 
 
 20 000 m2, 35 m high, 580 000 m3.</small>
 
