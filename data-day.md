@@ -135,7 +135,7 @@ That's why Humanities & Big Data are not in competition.
 <small>steampunk goggles, edmdesigns https://www.etsy.com/ca/listing/168920770/steampunk-goggles-antique-american</small>
 
 
-### (And help us avoid just-so stories)
+### (And so we avoid just-so stories)
 
 ![just-so](http://cdni.condenast.co.uk/426x639/a_c/38-Just-So-Stories_EL_14nov12_pr_bt.jpg)
 
