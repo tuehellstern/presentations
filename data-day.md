@@ -81,10 +81,6 @@ You can't just turn on the hose.
 ![pic](https://dl.dropboxusercontent.com/u/37716296/VIS_IADAA%20Connections%20and%20Business-Transaction%20Relationships-1427767673575.jpg)
 
 
-## Patterns of Discourse about 'Accessibility' & Digital History on Blogs (HIST4910)
-![pic](https://dl.dropboxusercontent.com/u/37716296/hollis-blog-posts.png)
-
-
 ## 'Data Speak for Themselves'?
 
 Nope. 
