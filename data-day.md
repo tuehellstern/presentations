@@ -3,11 +3,12 @@
 
 
 ### or why this archaeologist-cum-historian is speaking to you today.
+<section data-background="https://dl.dropboxusercontent.com/u/37716296/troy_pba_pottery_tent.jpg">
 
 
 ### Big Data Has Ever Been With Us
 Troy
-<section data-background="https://dl.dropboxusercontent.com/u/37716296/troy_pba_pottery_tent.jpg">
+
 
 
 <small> Monte Testaccio, 19th C, Rome: one giant repository of archaeological data. 
