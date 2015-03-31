@@ -50,6 +50,7 @@ You can't just turn on the hose. 'Big Data' are data that are too big for you to
 ### That's why folks like Ian Milligan
 ## are inventing new ways to do history, digitally
 ![ian's slide](https://ianmilli.files.wordpress.com/2015/03/milligan_lt_big_data.png?w=665&h=499)
+
 + Between 1996 and 2009, it ammased > 38 million pages
 + 2009, Yahoo nuked it. Utterly.
 + Ian's work is exploring these digital ruins.
