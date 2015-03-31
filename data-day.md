@@ -98,8 +98,8 @@ That is to say, theory helps us unpack worldviews and their artefacts.
 
 
 ### Big data needs the humanities
-
 ![https://andrewsidea.files.wordpress.com/2009/06/ratatouille1.jpg](https://andrewsidea.files.wordpress.com/2009/06/ratatouille1.jpg)
+
 + Remember, data are always cooked. Think of us as food critics.
 
  
