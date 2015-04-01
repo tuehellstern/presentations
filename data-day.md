@@ -81,8 +81,11 @@ You can't just turn on the hose.
 ![pic](https://dl.dropboxusercontent.com/u/37716296/VIS_IADAA%20Connections%20and%20Business-Transaction%20Relationships-1427767673575.jpg)
 
 
+## ...and out there in the wider world ...
+![dh image quilt](https://dl.dropboxusercontent.com/u/37716296/ImageQuilt%202015-31-03%20at%207.53.22%20PM.png)
+
+
 ## 'Data Speak for Themselves'?
-<section data-background="https://dl.dropboxusercontent.com/u/37716296/ImageQuilt%202015-31-03%20at%207.53.22%20PM.png">
 
 Nope. 
 
