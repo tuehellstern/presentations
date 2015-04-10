@@ -31,6 +31,4 @@
 ![Imgur](http://i.imgur.com/tv8UATa.png)
 
 
-![Imgur](http://i.imgur.com/tv8UATa.png)
-
 ![Imgur](http://i.imgur.com/xYE7V6A.png)
