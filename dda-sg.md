@@ -1,12 +1,12 @@
-### Shawn Graham [@electricarchaeo](http://twitter.com/electricarchaeo) Carleton U
-# Mining Archaeological Archives
+### Shawn Graham [@electricarchaeo](http://twitter.com/electricarchaeo) <br> Carleton U
+## Mining Archaeological Archives
 
 
 ### Identifying Discourses
 ## Through Applied Topic Models
 
 
-### Identifies Latent Semantic Structures
+### Topic Modelling Identifies Latent Semantic Structures
 + models 'topics' as distribution of words over documents
 + 'documents' can be whatever you like
 + [How To Topic Model with MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
