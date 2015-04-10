@@ -19,7 +19,7 @@
 ## PAS
 [Topic Modeling Time And Space](http://digitalarchaeology.msu.edu/dh2013/topic-modeling-time-and-space-archaeological-datasets-as-discourses/)
 
-![[Imgur](http://i.imgur.com/yT1tIus.png)
+![Imgur](http://i.imgur.com/yT1tIus.png)
 
 
 ## 20 000 Archaeologists
