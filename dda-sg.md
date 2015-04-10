@@ -1,5 +1,6 @@
 ### Shawn Graham [@electricarchaeo](http://twitter.com/electricarchaeo) <br> Carleton U
 ## Mining Archaeological Archives
+#### _in 5 minutes or less!_
 
 
 ### Identifying Discourses
