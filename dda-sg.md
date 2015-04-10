@@ -1,4 +1,4 @@
-### Shawn Graham [@electricarchaeo](http://twitter.com/electricarchaeo) <br> Carleton U
+### _Shawn Graham <br> [@electricarchaeo](http://twitter.com/electricarchaeo) <br> Carleton U_
 ## Mining Archaeological Archives
 #### _in 5 minutes or less!_
 
