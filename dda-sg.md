@@ -22,6 +22,13 @@
 ![Imgur](http://i.imgur.com/yT1tIus.png)
 
 
+## Prescot Street Excavation Archive
+
+[Reading an Excavation Distantly](http://electricarchaeology.ca/2013/07/09/prescot-street-as-topic-model-or-reading-an-excavation-distantly/)
+
+![http://electricarchaeologist.files.wordpress.com/2013/07/module5-roman-pits-fills-structures.png](http://electricarchaeologist.files.wordpress.com/2013/07/module5-roman-pits-fills-structures.png)
+
+
 ## 20 000 Archaeologists
 [Topic Browser](http://graeworks.net/digitalarchae/20000/)
 
