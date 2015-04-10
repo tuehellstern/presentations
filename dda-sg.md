@@ -44,4 +44,4 @@
 ## So what?
 + extracting voice at the trowel's edge [Prescott Street]
 + patterns at nation level not just within the archae but also individual finds officer / metal dectorists [PAS]
-+ inflection points in historiography - generational change overs? [20 000]
++ inflection points in historiography - generational change overs? [20000]
