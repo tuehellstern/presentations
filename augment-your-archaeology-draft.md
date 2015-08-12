@@ -333,15 +333,18 @@ publishing - digital gabii is working on this
 	- think about archaeo-tv & *its* tropes.
 - if we're quick, we can get in on the ground floor now and set these for the field.
 
+
 - games _can_ be used to write scholarly arguments
-- but they've got to be playful [#archaeogaming](https://twitter.com/search?f=tweets&vertical=default&q=archaeogaming&src=typd) 
+- but it's got to be done playfully
+- [#archaeogaming](https://twitter.com/search?f=tweets&vertical=default&q=archaeogaming&src=typd) 
 
 
 # BUT NOT GAMIFIED
 
-For as Bogost said: gamification is _bullshit_.
+For as Bogost has taught us: gamification is _bullshit_.
 
 ![http://internet-marketing.mjaimpressions.com/2012/04/starting-social-game-app-gamification-strategy/](http://internet-marketing.mjaimpressions.com/wp-content/uploads/2012/04/game-intersection.jpg)
+
 
 # The future of archaeology is _awesome_, right?
 
