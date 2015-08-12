@@ -312,7 +312,7 @@ My attempt at making a 'ghosts in the garden' type experience
 
 [@brennawalks](https://twitter.com/brennawalks/status/628087916670095360) My AR attempts only ever made sense for outreach back home but I really wanted for site tours
 
-[@hellokaitlin](https://twitter.com/hellokaitlin/status/628022189539856384)] I would like to see it more widely used to better understand heritage in pre-development
+[@hellokaitlin](https://twitter.com/hellokaitlin/status/628022189539856384) I would like to see it more widely used to better understand heritage in pre-development
 
 
 
@@ -329,10 +329,14 @@ publishing - digital gabii is working on this
 
 
 ### fwiw, my money's on games
+![image](http://www.vivienneraper.com/blog/wp-content/uploads/escapecurseimage.jpg)
+
+...well, not this one...
+
+
 - the public will learn to use AR through games
 - the conventions that game developers evolve will become the new formalisms
 	- think about archaeo-tv & *its* tropes.
-- if we're quick, we can get in on the ground floor now and set these for the field.
 
 
 - games _can_ be used to write scholarly arguments
