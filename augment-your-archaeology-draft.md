@@ -175,9 +175,13 @@ audio tours - yes, I suppose they are a kind of AR, but see paper
 #### voices recognition
 [![Voices Recognition, Colleen Morgan](https://img.youtube.com/vi/ogUCb9JrTNU/0.jpg)](https://www.youtube.com/embed/ogUCb9JrTNU)
 
+(click to play video)
+
 
 #### 200 Castles
 [![200 Castles](http://i.imgur.com/NKyAwjp.png)](https://vimeo.com/51654422)
+
+(click to play video)
 
 Note: 
 Caitlin Fisher's work: note the importance of sound in creating the ambiance/immersiveness in her art/work https://projeqt.com/caitlin/200-castles
@@ -194,7 +198,7 @@ _just to give you a sense of what's out there_
 
 ![image](http://www.dead-mens-eyes.org/wp-content/uploads/2010/03/leskernick_landscape_no_masks_clipped-300x211.jpg)
 
-<small>[#YOHRS seminar presentation](https://www.youtube.com/watch?v=3OdVSGiU9lQ)</small>
+<small>[#YOHRS seminar presentation video](https://www.youtube.com/watch?v=3OdVSGiU9lQ)</small>
 
 
 ### digital gabii 
@@ -246,8 +250,7 @@ the assetts that this project creates could be rendered into AR easily; here the
 
 [HIST5702x](http://5702x.graeworks.net) & FYSM1405a, digitizing museum collections
 
-[_get the book_](http://5702x.graeworks.net/?p=789)
-<br>[_read student reflections:_](http://scalar.usc.edu/works/hist5702x-unessays-winter-2014/index)
+[_get the book_](http://5702x.graeworks.net/?p=789) | [_read student reflections_](http://scalar.usc.edu/works/hist5702x-unessays-winter-2014/index)
 
 ![pop](https://pbs.twimg.com/media/BkuU6WqCQAAS2fR.jpg)
 
@@ -266,11 +269,11 @@ Note:
 Many of these things out there, and this is more hydrological than archaeological, but we can see the potentials, right?
 
 
-...Ghosts in the Garden...
+[...Ghosts in the Garden...](http://www.react-hub.org.uk/heritagesandbox/projects/2012/ghosts-in-the-garden/)
 
 [![Ghosts in the Garden](http://www.react-hub.org.uk/sites/default/files/imagecache/project-380/project/key_image/2012-03-13/Screen%20Shot%202012-09-25%20at%2016.11.52.png)](http://apps.watershed.co.uk/mediaembedder/?id=1938&store=dds&theme=default&autoplay=false&autobuffer=false)
 
-http://www.react-hub.org.uk/heritagesandbox/projects/2012/ghosts-in-the-garden/
+(click to play video)
 
 Note: 
 Also excursus into Techumseh Lies Here & ARGs. This is a lovely mixture of place & audio, makes a compelling experience. list - what makes a compelling arg experience? 
@@ -328,10 +331,26 @@ publishing - digital gabii is working on this
 - the public will learn to use AR through games
 - the conventions that game developers evolve will become the new formalisms
 	- think about archaeo-tv & *its* tropes.
+- if we're quick, we can get in on the ground floor now and set these for the field.
+
+- games _can_ be used to write scholarly arguments
+- but they've got to be playful [#archaeogaming](https://twitter.com/search?f=tweets&vertical=default&q=archaeogaming&src=typd) 
 
 
-- games can be used to write scholarly arguments
-- but it's playfulness, gamefulness, [#archaeogaming](https://twitter.com/search?f=tweets&vertical=default&q=archaeogaming&src=typd) 
+# BUT NOT GAMIFIED
+
+For as Bogost said: gamification is _bullshit_.
+
+![http://internet-marketing.mjaimpressions.com/2012/04/starting-social-game-app-gamification-strategy/](http://internet-marketing.mjaimpressions.com/wp-content/uploads/2012/04/game-intersection.jpg)
+
+# The future of archaeology is _awesome_, right?
+
+![dude](http://www.chapterthree.com/sites/default/files/legacy/retro-dude.png)
+
+...but there're still a few bugs to work out.
+
+Note:
+discuss problems of publishing, convincing others of 'scholarlyness'
 
 
 ## After the Break:
