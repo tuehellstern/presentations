@@ -340,7 +340,7 @@ publishing - digital gabii is working on this
 
 
 - games _can_ be used to write scholarly arguments
-- but it's got to be done playfully
+- but the mechanics and metaphors must match
 - [#archaeogaming](https://twitter.com/search?f=tweets&vertical=default&q=archaeogaming&src=typd) 
 
 
