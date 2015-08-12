@@ -103,7 +103,7 @@ From Wall Painting to Flipbooks
 
 |   |   |
 |---|---|
-|![roman tromp l'oeil - second style](https://foundinantiquity.files.wordpress.com/2013/08/villa-of-publius-fannius-synistor-fantastic-architecture.jpg)|![acetate](http://i.imgur.com/rGyEOdL.jpg)|
+|![roman tromp l'oeil - second style](https://foundinantiquity.files.wordpress.com/2013/08/villa-of-publius-fannius-synistor-fantastic-architecture.jpg)|![acetate](http://i.imgur.com/yZqPVkn.png)|
 
 
 ## analogue VR
