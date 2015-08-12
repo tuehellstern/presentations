@@ -33,6 +33,8 @@ We've always been augmenting reality. But maybe we could make things a bit more.
 
 [![Augmenting a Roman Fort, Stu Eve](http://www.dead-mens-eyes.org/wp-content/uploads/2011/10/CIMG1247-300x225.jpg)](https://player.vimeo.com/video/30861262)
 
+(click to play video)
+
 ...consider the Museum Diorama...
 
 Note:
@@ -41,6 +43,7 @@ Stu Eve app. This video continues to blow me away. No AR app I've seen in the in
 
 [![Minecraft & Hololens](https://img.youtube.com/vi/xgakdcEzVwg/0.jpg)](https://www.youtube.com/embed/xgakdcEzVwg?start=145)
 
+(click to play video)
 
 ## the continuum
 <img class="stretch" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Virtuality_Continuum_2.jpg"></img>
@@ -56,6 +59,23 @@ Helen Papagiannis http://www.40ideas.com/
 
 Note: 
 mostly advertising world - but clearly Microsoft, Google, & others are making *huge* bets here. - notice the progression here: http://techcrunch.com/2010/05/26/ogmento-first-ar-gaming-startup-to-win-vc-funding/ to http://www.flybymedia.com/
+
+
+## $150 _Billion_ Industry?
+
+![http://www.clickonline.com/Images/Uploads/2015/219/Original/Rift-Time-Parody.png](http://www.clickonline.com/Images/Uploads/2015/219/Original/Rift-Time-Parody.png)
+
+[This report](http://www.digi-capital.com/reports/#augmented-virtual-reality) makes that claim. The money's not in gear.
+
+It's in _experiences_. 
+
+Note:
+Google invests in 'magic leap' to tune of $542 million. Nobody's even seen what they're doing yet. 'Glass' is being relaunched as an industry (not consumer) product. Junaio/Metaio have been bought by Apple. Existing AR sdk's etc now all want ridiculous subscriptions, where the sdk itself is free but branding & pushing content is not (worrying implication there)
+
+
+## The Past: The Killer App
+
++ Rob MacDougall, University of Western Ontario
 
 
 ## public historians
@@ -81,7 +101,9 @@ Note: this ends the intro; having looked at the geewhiz aspects, let's turn to t
 ## analogue AR
 From Wall Painting to Flipbooks
 
-![roman tromp l'oeil - second style](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Metropolitan_wall_painting_Roman_1C_BC_9.jpg/576px-Metropolitan_wall_painting_Roman_1C_BC_9.jpg) ![acetate](http://i.imgur.com/rGyEOdL.jpg)
+|   |   |
+|---|---|
+|![roman tromp l'oeil - second style](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Metropolitan_wall_painting_Roman_1C_BC_9.jpg/576px-Metropolitan_wall_painting_Roman_1C_BC_9.jpg)|![acetate](http://i.imgur.com/rGyEOdL.jpg)|
 
 
 ## analogue VR
@@ -126,10 +148,9 @@ Something about the gaze etc. also, about touch - that tweet of lidar + pins hmm
 <small>This child has endured a break in presence.<br>https://pixabay.com/en/portrayal-portrait-crying-cry-baby-89189/</small>
 
 Note:
-Building a convincing visual AR experience, that does not cause any breaks in presence is the holy grail of Augmented Reality studies, and something that is virtually impossible to achieve. A break in presence will occur due to the mediation of the experience through a device (Head-Mounted Display, tablet computer, smartphone, etc.); the quality of the rendering of the virtual objects; the level of latency in software that delivers the experience to the eyes; the list is endless and scale-less – once you ‘solve’ one break in presence, then another occurs. The goal then can never be to completely eliminate breaks in presence, but instead to recognise them and treat them with an historian’s caution.
-- phenomenology is not a bad word. http://discovery.ucl.ac.uk/1352447/1/Eve_2012_Augmented_Phenomenology.pdf
-- beyond digital dwelling http://www.degruyter.com/view/j/opar.2014.1.issue-1/opar-2015-0006/opar-2015-0006.xml?format=INT
-- challenging heritage visualization http://www.degruyter.com/view/j/opar.2014.1.issue-1/opar-2015-0006/opar-2015-0006.xml?format=INT
+Building a convincing visual AR experience, that does not cause any breaks in presence is the holy grail of Augmented Reality studies, and something that is virtually impossible to achieve. A break in presence will occur due to the mediation of the experience through a device (Head-Mounted Display, tablet computer, smartphone, etc.); the quality of the rendering of the virtual objects; the level of latency in software that delivers the experience to the eyes; the list is endless and scale-less – once you ‘solve’ one break in presence, then another occurs. The goal then can never be to completely eliminate breaks in presence, but instead to recognise them and treat them with an historian’s caution. phenomenology is not a bad word. http://discovery.ucl.ac.uk/1352447/1/Eve_2012_Augmented_Phenomenology.pdf
+beyond digital dwelling http://www.degruyter.com/view/j/opar.2014.1.issue-1/opar-2015-0006/opar-2015-0006.xml?format=INT
+challenging heritage visualization http://www.degruyter.com/view/j/opar.2014.1.issue-1/opar-2015-0006/opar-2015-0006.xml?format=INT
 
 
 ## missing a trick: sound & AR
@@ -270,16 +291,47 @@ Note:
 My attempt at making a 'ghosts in the garden' type experience
 
 
+## What do archaeologists *actually* want?
+
+![Imgur](http://i.imgur.com/vupSnZc.png)
+
+
+[@lornarichardson](https://twitter.com/lornarichardson/status/628089085551316992) I'd like big viewers at monuments/sites which show an AR reconstruction in 3D against in situ ruins (been done?)
+
+[@pompeiana79](https://twitter.com/Pompeiana79/status/627209677022101505) I've wanted to 3D print in 1:1 an evidence rich column from the Quadriporticus. That could be a great AR teaching tool.
+
+
+[@sarahebond](https://twitter.com/SarahEBond/status/628021539544240129) I'd like to see it used to teach archaeo students about depths, keeping straight walls, and surveying. Pre-fieldwork.
+
+[@zenobiewan](https://twitter.com/zenobiewan/status/628148410114285572) it'd be fun to look at the phenomenology of past landscapes as they were not as they exist today
+
+
+[@brennawalks](https://twitter.com/brennawalks/status/628087916670095360) My AR attempts only ever made sense for outreach back home but I really wanted for site tours
+
+[@hellokaitlin](https://twitter.com/hellokaitlin/status/628022189539856384)] I would like to see it more widely used to better understand heritage in pre-development
+
+
 
 ## 6. Conclusion:
 ### What's in it for you
 - why you should bother
-- the research potentials
-
-
-- the public outreach potentials
+	- the research potentials
+	- the public outreach potentials
 - the rhetorical/tactical impact
-- the problem of publishing [more about Digital Gabii]
+- the problem of publishing
+
+Note:
+publishing - digital gabii is working on this
+
+
+### fwiw, my money's on games
+- the public will learn to use AR through games
+- the conventions that game developers evolve will become the new formalisms
+	- think about archaeo-tv & *its* tropes.
+
+
+- games can be used to write scholarly arguments
+- but it's playfulness, gamefulness, [#archaeogaming](https://twitter.com/search?f=tweets&vertical=default&q=archaeogaming&src=typd) 
 
 
 ## After the Break:
@@ -289,4 +341,4 @@ _or_
 _or_
 + Making 3d models with 123d Catch; annotating & sharing them in Sketchfab (with Oculus or Cardboard viewing!)
 
-<small>see http://github.com/shawngraham/ar-archaeology for workshop resources, tools, libraries etc!</small>
+<small>[workshop resources, tools, libraries etc!](https://github.com/shawngraham/ar-archaeology/blob/master/workshop%20materials/readme.md)</small>
