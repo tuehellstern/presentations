@@ -141,8 +141,9 @@ Something about the gaze etc. also, about touch - that tweet of lidar + pins hmm
 
 
 ## Breaks in Presence
-+ that which knocks you out of the experience
-+ What can 'ruin' a conventional AR experience?
+	+ that which knocks you out of the experience
+	+ What can 'ruin' a conventional AR experience?
+
 ![this child has had a break in presence](http://i.imgur.com/aZYsJmP.png)
 
 <small>This child has endured a break in presence.<br>https://pixabay.com/en/portrayal-portrait-crying-cry-baby-89189/</small>
