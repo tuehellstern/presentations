@@ -136,6 +136,7 @@ discussion of early vr, caves, etc
 ### 3. What gets augmented, anyway? 
 ## privileging the visual
 ![JC+A, British Museum https://www.flickr.com/photos/williamphotography/](https://farm5.staticflickr.com/4023/4672892333_dd110d9d17_z.jpg)
+
 Note: 
 Something about the gaze etc. also, about touch - that tweet of lidar + pins hmmmm
 
@@ -260,6 +261,10 @@ the assetts that this project creates could be rendered into AR easily; here the
 ![Imgur](http://i.imgur.com/COXL3d8h.jpg)
 
 
+...beacons...
+![image](https://github.com/shawngraham/ar-archaeology/tree/master/workshop%20materials/img/montpelier.png)
+
+
 ...AR Sandtable...
 
 https://www.youtube.com/watch?v=rm4o3zn0JC8
@@ -359,6 +364,12 @@ For as Bogost has taught us: gamification is _bullshit_.
 
 Note:
 discuss problems of publishing, convincing others of 'scholarlyness'
+
+
+# Truth.
+![image](https://pbs.twimg.com/media/CMYhZxhWoAAX85f.png)
+
+(By Trent Tucker)
 
 
 ## After the Break:
