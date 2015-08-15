@@ -262,7 +262,7 @@ the assetts that this project creates could be rendered into AR easily; here the
 
 
 ...beacons...
-![image](https://github.com/shawngraham/ar-archaeology/tree/master/workshop%20materials/img/montpelier.png)
+![image](https://raw.githubusercontent.com/shawngraham/ar-archaeology/master/workshop%20materials/img/monticello.png)
 
 
 ...AR Sandtable...
