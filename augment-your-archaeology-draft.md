@@ -155,11 +155,22 @@ beyond digital dwelling http://www.degruyter.com/view/j/opar.2014.1.issue-1/opar
 challenging heritage visualization http://www.degruyter.com/view/j/opar.2014.1.issue-1/opar-2015-0006/opar-2015-0006.xml?format=INT
 
 
+## arc of intentionality
+
+![arc](http://www.dead-mens-eyes.org/wp-content/uploads/2010/12/Fig2_AoI.jpg)
+
+Note:
+the arc gives us a framework for identifying those elements of the relationships that we are interested in. Husserl phenomenology - not as kumbaya touchy feely subjective experience of space, but rather systematic investigation of the relationships of the elements of that experience. so AoI gives us a framework for systematizing our experience, of designing our experience. if you're interested in how hadrian's wall impedes movement across the landscape, then the BiP that a bad reconstruction of the mortar of the stones might cause in a full VR experience *don't matter* if the question is about impeding movement across landscape: a gray block augmented across our vision will do.
+
+
 ## missing a trick: sound & AR
 + sound is haptic
 + sound requires active attention
 + sound is spatialized
 + can use it to deliberately play with BiPs
+
+Note:
+sound is much easier to work with, less prone to BiPs too
 
 
 ## Some Augmented Audio Links
