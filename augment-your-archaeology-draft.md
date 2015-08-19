@@ -8,9 +8,8 @@ Why bother with AR? Ain't it just a gimmick? Make a Pratchett allusion - Tiffany
 
 ## Map for Today's Talk
 
-1. Seeing Ghosts 
-2. Which We've Always Done
-    + I want my MTV
+1. The Archaeological Eye 
+2. A Potted History of the Field/Industry
 3. Sense and Sensibility (_or, manipulating breaks in presence_)
 4. AR for Archaeological Research
 5. AR for Public Archaeology
