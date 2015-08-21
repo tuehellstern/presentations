@@ -1,3 +1,4 @@
+and now for something _completely_ different
 # Augment your archaeology
 <small> Follow along on your own device at http://j.mp/ar-arch
 <br>Fork & annotate & remix the source at http://j.mp/ar-arch-md</small>
