@@ -1,9 +1,9 @@
 <div align="left">
 ** Cottage **
-
+<br>
 
 `>`you are standing in a small cottage. There is a **fishing pole** here.
-
+<br>
 
 Exits are: OUT
 </div>
