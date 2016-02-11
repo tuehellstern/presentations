@@ -245,10 +245,30 @@ But...
 Yes Keanu. Woah indeed.
 
 ---
+
+Forget about essays.
+
+---
+
+Ask 'how this form enables/constrains different modes of knowing'
+
+---
+
+Games teach only how to play the game.
+
+---
+
+Make it a good one.
+
+---
+
+
 <div align="left">
 **Classroom**
+
 <br>
 `>`you are standing in a small classroom. There is a **computer** here. Students are staring at you.
 <br>
+
 Exits are: OUT
 </div>
