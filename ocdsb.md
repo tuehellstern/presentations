@@ -1,8 +1,10 @@
+<div align="left">
 ** Cottage **
 
 `>`you are standing in a small cottage. There is a **fishing pole** here.
 
 Exits are: OUT
+</div>
 
 ---
 
@@ -10,7 +12,7 @@ Exits are: OUT
 
 Yes Keanu. Woah indeed.
 
-----
+---
 
 ## No More Essays
 
@@ -240,9 +242,10 @@ But...
 Yes Keanu. Woah indeed.
 
 ---
-
+<div align="left">
 **Classroom**
 
 `>`you are standing in a small classroom. There is a **computer** here. Students are staring at you.
 
 Exits are: OUT
+</div>
