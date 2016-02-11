@@ -16,7 +16,7 @@ Yes Keanu. Woah indeed.
 
 ---
 
-## No More Essays
+# No More Essays
 
 ---
 
@@ -24,7 +24,7 @@ _or_
 
 ---
 
-Writing History Beyond the Page
+# Writing History Beyond the Page
 
 ---
 
@@ -246,8 +246,8 @@ Yes Keanu. Woah indeed.
 ---
 <div align="left">
 **Classroom**
-
+<br>
 `>`you are standing in a small classroom. There is a **computer** here. Students are staring at you.
-
+<br>
 Exits are: OUT
 </div>
