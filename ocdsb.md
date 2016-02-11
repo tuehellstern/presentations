@@ -26,7 +26,8 @@ _or_
 
 # Writing History Beyond the Page
 
-<small>Follow along at j.mp/ocdsb-sg</small>
+<small>Follow along at [j.mp/ocdsb-sg](http://j.mp/ocdsb-sg)</small>
+<br><small>Supporting materials are at [j.mp/ocdsb-repo](http://j.mp/ocdsb-repo)
 ---
 
 ![Bruce in his Office](http://carleton.ca/history/wp-content/uploads/LUT6410-300px.jpg)
