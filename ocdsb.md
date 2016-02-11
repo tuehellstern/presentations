@@ -26,6 +26,7 @@ _or_
 
 # Writing History Beyond the Page
 
+<small>Follow along at j.mp/ocdsb-sg</small>
 ---
 
 ![Bruce in his Office](http://carleton.ca/history/wp-content/uploads/LUT6410-300px.jpg)
