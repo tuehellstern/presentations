@@ -275,3 +275,7 @@ Make it a good one.
 
 Exits are: OUT
 </div>
+
+---
+
+[Sources for Images; all CC](https://github.com/shawngraham/ocdsb/blob/master/source-images.md)
