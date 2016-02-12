@@ -27,7 +27,7 @@ _or_
 # Writing History Beyond the Page
 
 <small>Follow along at [j.mp/ocdsb-sg](http://j.mp/ocdsb-sg)</small>
-<br><small>Supporting materials are at [j.mp/ocdsb-repo](http://j.mp/ocdsb-repo)
+<br><small>Supporting materials are at [j.mp/ocdsb-repo](http://j.mp/ocdsb-repo)</small>
 <br><small>Dr. Shawn Graham, Dept of History, Carleton [@electricarchaeo](http://twitter.com/electricarchaeo)</small>
 
 ---
