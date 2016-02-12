@@ -28,6 +28,8 @@ _or_
 
 <small>Follow along at [j.mp/ocdsb-sg](http://j.mp/ocdsb-sg)</small>
 <br><small>Supporting materials are at [j.mp/ocdsb-repo](http://j.mp/ocdsb-repo)
+<br><small>Dr. Shawn Graham, Dept of History, Carleton [@electricarchaeo](http://twitter.com/electricarchaeo)</small>
+
 ---
 
 ![Bruce in his Office](http://carleton.ca/history/wp-content/uploads/LUT6410-300px.jpg)
