@@ -32,7 +32,7 @@ _or_
 
 ---
 
-![Bruce in his Office](http://carleton.ca/history/wp-content/uploads/LUT6410-300px.jpg)
+_pic of historian surrounded by papers_
 
 ---
 
