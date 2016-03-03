@@ -6,10 +6,6 @@
 
 ---
 
-note to self: include examples of student work as other ways of remediating past
-
----
-
 
 ![humpty-dumpty](find image of smashed egg)
 
@@ -68,7 +64,7 @@ Photobashing - stuff from tara...
 
 ---
 
-the kinds of things I assign students as it's hard to push to far from the 'game of being a student'
+the kinds of things I assign students as it's hard to push to far from the 'game of being a student' - grab examples from ocdsb presentation
 
 ---
 
