@@ -1,8 +1,8 @@
-# Soundbashing the Past
+# Soundbash the Past
 
 ---
 
-### on deformation & performance
+### a workshop on deformation & performance
 
 ---
 
