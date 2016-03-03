@@ -11,6 +11,7 @@
 ---
 
 What is the object of study here?
+<img src="https://farm8.staticflickr.com/7188/6786558606_24bf54c04c_o_d.jpg" width = "100%" height = "100%">
 
 ---
 
