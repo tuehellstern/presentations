@@ -230,6 +230,8 @@ Try to live-code the performance; play notes.tick plays the data straight up, et
 
 Rest of this workshop: let's make some noise!
 
+<small>[Image Credits](soundbashcredits.md)</small>
+
 ---
 
 + [Tutorial on sonification for historians](http://programminghistorian.github.io/ph-submissions/lessons/sonification)
