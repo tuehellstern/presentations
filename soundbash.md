@@ -6,6 +6,11 @@
 
 ---
 
+note to self: include examples of student work as other ways of remediating past
+
+---
+
+
 ![humpty-dumpty](find image of smashed egg)
 
 ---
