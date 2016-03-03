@@ -2,7 +2,7 @@
 
 ---
 
-### a workshop on deformation & performance
+### on deformation & performance of digital data
 <small>Shawn Graham, Carleton U, @electricarchaeo</small>
 
 ---
