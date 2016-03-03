@@ -8,16 +8,13 @@
 
 ---
 
-Deformance vs Deformation
+Deformance vs Deformation<br>
+<small>Sample, [Towards a Deformed Humanities](http://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/)</small>
 
 ---
 
 <section data-background="https://farm8.staticflickr.com/7188/6786558606_24bf54c04c_o_d.jpg">
 </section>
-
----
-
-Sample, [Towards a Deformed Humanities](http://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/)
 
 ---
 <section data-background="http://i.imgur.com/MBnL4Wm.jpg"</section>
@@ -232,3 +229,15 @@ Try to live-code the performance; play notes.tick plays the data straight up, et
 ---
 
 Rest of this workshop: let's make some noise!
+
+---
+
++ [Tutorial on sonification for historians](http://programminghistorian.github.io/ph-submissions/lessons/sonification)
++ [Tutorials on games, augmented reality, and photogrammetry](https://github.com/shawngraham/ar-archaeology/blob/master/workshop%20materials/readme.md)
+
+---
+
+## Musicalgorithms
+
+[http://musicalgorithms.org/](http://musicalgorithms.org/)
+![img](load-music.png)
