@@ -107,33 +107,110 @@ So we have to make things weird again, disrupt consensus
 
 ---
 
+# A Brief Tangent
+
+---
+
+To make things weird, we first have to normalize them
+
+---
+
+And that means disrupting the game of being a student
+
+---
+
+![slackjawed](https://upload.wikimedia.org/wikipedia/commons/d/d7/Don_Knotts_Jim_Nabors_Andy_Griffith_Show_1964.JPG)
+
+---
+
+![lego zombies](https://farm5.staticflickr.com/4137/4791322423_7213b78fb9_b_d.jpg)
+
+---
+
+![allison](http://i.imgur.com/oxenSgE.png)
+
+---
+
+Some focus on place.
+
+---
+
+![Christina](http://i.imgur.com/LS5Qud0.png)
+
+---
+
+![Pembroke](http://i.imgur.com/j7Q8dyR.jpg)
+
+---
+
+Some focus on pushing the physical into the digital and back to the physical world.
+
+---
+
+![air canada](https://pbs.twimg.com/media/BkuU6WqCQAAS2fR.jpg)
+
+---
+
+![meso](http://i.imgur.com/VKl1b7W.png)
+
+---
+
+Some tell algorithmic stories.
+
+---
+
+![vow to mithras](http://i.imgur.com/hf6jcRo.png)
+
+---
+
+Some build worlds
+
+---
+
+[RideauCraft](https://docs.google.com/presentation/d/1GYZKKFpatf0fYf71akcSvDu4Qtb1RA9fCPhcdtajaS4/edit?pli=1#slide=id.p)
+![Imgur](http://i.imgur.com/lvfbQh3.png)
+
+---
+
+[VimyCraft](https://dl.dropboxusercontent.com/u/37716296/vimyparadata.html)
+![Imgur](http://i.imgur.com/Ez2Qs2c.png)
+
+---
+
+The Medic's War
+![The Medic's War](http://epress.trincoll.edu/webwriting/wp-content/uploads/sites/12/2014/10/Graham1-MedicsWar1022px.jpg)
+
+---
+
+Lack of grammar for the other modalities is an opportunity to figure out new ways of knowing.
+
+---
+
+# /tangent
+
+---
+
 <section data-backround="http://blog.taracopplestone.co.uk/wp-content/uploads/2015/11/watercolourattempt2.png">
 Note:
-Photobashing - stuff from tara...
+photobashing ... occupies a liminal position in archae because it puts 'something captured through a mechanical process through a subjective one'
+Value in it- because it 'sit[s] at an intersection of subjective processes and mechanical capture, allows for some interesting interactions and reflexivity between both sides of this discussion'. Photobashing is deformation.
 </section>
-
----
-
-the kinds of things I assign students as it's hard to push to far from the 'game of being a student' - grab examples from ocdsb presentation
-
----
-
-+ sound is haptic
-+ sound requires active attention
-+ sound is spatialized
-+ can use it to deliberately play with BiPs
-
-Note:
-A break in presence will occur due to the mediation of the experience through a device (Head-Mounted Display, tablet computer, smartphone, etc.); the quality of the rendering of the virtual objects; the level of latency in software that delivers the experience to the eyes; the list is endless and scale-less – once you ‘solve’ one break in presence, then another occurs. The goal then can never be to completely eliminate breaks in presence, but instead to recognise them and treat them with an historian’s caution.
 
 ---
 
 what I'm currently getting really interested in:
 Soundbashing
 
+Note:
+so by analogy to photobashing, take data captured from algorithmic process and punch it through a subjective process and back again.
+
 ---
 
+![nature](http://www.nature.com/nature/journal/v506/n7487/images/506158a-i1.jpg)
+
+Note:
 Different than soundscapes, archaeoacoustics
+http://www.nature.com/nature/journal/v506/n7487/full/506158a.html?WT.ec_id=NATURE-20140213
 
 ---
 
@@ -142,20 +219,15 @@ Rob Blades: <br>
 
 ---
 
-but similar connections with memory, sense making?
+[Historical Friction](http://graeworks.net/historicalfriction)
 
 ---
 
-smashmouth video, midified: shows prior conditioning matters
+Songs for Jesuits
+[Recording](https://soundcloud.com/shawn-graham-60451318/jesuits-groove)
 
----
-
-neurology of hearing
-
----
-
-haptics of sound
-
+Note:
+Try to live-code the performance; play notes.tick plays the data straight up, etc
 ---
 
 Rest of this workshop: let's make some noise!
