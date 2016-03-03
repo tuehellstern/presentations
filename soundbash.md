@@ -2,9 +2,9 @@
 
 ---
 
-### on <br> deformation & performance <br> of digital data
+### _on <br> deformation & performance <br> of digital data_
 <small>Shawn Graham, Carleton U, @electricarchaeo</small>
-<small>follow along at [http://j.mp/sg-regina]</small>
+<small>follow along at <br> [j.mp/sg-regina](http://j.mp/sg-regina)</small>
 
 ---
 
