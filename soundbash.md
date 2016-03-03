@@ -239,6 +239,12 @@ Rest of this workshop: let's make some noise!
 
 ---
 
+## From Site to Sound
+
+![img](from-site-to-sound.png)
+
+---
+
 ## Musicalgorithms
 
 [http://musicalgorithms.org/](http://musicalgorithms.org/)
