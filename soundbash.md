@@ -86,7 +86,7 @@ Stu Eve app. This video continues to blow me away. No AR app I've seen in the in
 
 ---
 
-even essays are an attempt at augmented or virtual reality
+even an essay is an attempt at augmented or virtual reality
 
 ---
 
@@ -191,16 +191,16 @@ Lack of grammar for the other modalities is an opportunity to figure out new way
 
 ---
 
-<section data-backround="http://blog.taracopplestone.co.uk/wp-content/uploads/2015/11/watercolourattempt2.png">
+![Tara Copplestone Watercolor](copplestone-watercolor.png)
+
 Note:
 photobashing ... occupies a liminal position in archae because it puts 'something captured through a mechanical process through a subjective one'
 Value in it- because it 'sit[s] at an intersection of subjective processes and mechanical capture, allows for some interesting interactions and reflexivity between both sides of this discussion'. Photobashing is deformation.
-</section>
 
 ---
 
-what I'm currently getting really interested in:
-Soundbashing
+So.<br>
+...Soundbashing?
 
 Note:
 so by analogy to photobashing, take data captured from algorithmic process and punch it through a subjective process and back again.
