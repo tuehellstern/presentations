@@ -242,7 +242,7 @@ Rest of this workshop: let's make some noise!
 ## From Site to Sound
 
 ![img](from-site-to-sound.png)
-
+<small> Topic model viz is [here](http://bl.ocks.org/shawngraham/raw/b7a0ce3eb646158439f0/#topic=20&lambda=1&term=)</small>
 ---
 
 ## Musicalgorithms
