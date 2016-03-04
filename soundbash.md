@@ -157,6 +157,8 @@ Some focus on pushing the physical into the digital and back to the physical wor
 
 ---
 
+R Blades, _Sonifying Dirty Data_
+
 ![dirtydata](rob-dirty-ocr.png)
 
 ---
