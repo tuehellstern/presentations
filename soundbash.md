@@ -96,7 +96,7 @@ hundreds of years of getting to consensus on viz; map w/ north at top, TVP story
 
 <section data-background="playfic.png">
 Note:
-top-down perspective, god's eye view, one way of messing with this
+top-down perspective, god's eye view, one way of messing with this. Indeed, we need more things that mess with our students' expectations, and the conventions of displaying data. 
 </section>
 
 ---
@@ -221,8 +221,17 @@ Rob Blades: <br>
 
 ---
 
-Songs for Jesuits
-[Recording](https://soundcloud.com/shawn-graham-60451318/jesuits-groove)
+## From Text to Sound
+
+![img](from-site-to-sound.png)
+<small> Topic model viz is [here](http://bl.ocks.org/shawngraham/raw/b7a0ce3eb646158439f0/#topic=20&lambda=1&term=)</small>
+
+---
+## The result:
+
+_Songs of Jesuits_
+[Listen to the recording](https://soundcloud.com/shawn-graham-60451318/jesuits-groove)
+<br>Live-coding with [sonic pi](http://sonic-pi.net)
 
 Note:
 Try to live-code the performance; play notes.tick plays the data straight up, etc
@@ -233,16 +242,11 @@ Rest of this workshop: let's make some noise!
 <small>[Image Credits](soundbashcredits.md)</small>
 
 ---
+_useful things_
 
 + [Tutorial on sonification for historians](http://programminghistorian.github.io/ph-submissions/lessons/sonification)
 + [Tutorials on games, augmented reality, and photogrammetry](https://github.com/shawngraham/ar-archaeology/blob/master/workshop%20materials/readme.md)
 
----
-
-## From Site to Sound
-
-![img](from-site-to-sound.png)
-<small> Topic model viz is [here](http://bl.ocks.org/shawngraham/raw/b7a0ce3eb646158439f0/#topic=20&lambda=1&term=)</small>
 ---
 
 ## Musicalgorithms
