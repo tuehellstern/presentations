@@ -87,7 +87,7 @@ even an essay is an attempt at augmented or virtual reality
 
 ---
 
-<section data-background="https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png">
+<section data-background="neatline.png">
 Note:
 hundreds of years of getting to consensus on viz; map w/ north at top, TVP story
 </section>
@@ -96,7 +96,7 @@ hundreds of years of getting to consensus on viz; map w/ north at top, TVP story
 
 <section data-background="playfic.png">
 Note:
-top-down perspective, god's eye view, one way of messing with this. Indeed, we need more things that mess with our students' expectations, and the conventions of displaying data. 
+top-down perspective, god's eye view, one way of messing with this. Indeed, we need more things that mess with our students' expectations, and the conventions of displaying data.
 </section>
 
 ---
