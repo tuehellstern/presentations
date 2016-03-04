@@ -52,6 +52,17 @@ Sherlock Holmes was a jerk.</br>
 
 ---
 
+We've use 'visual' as metaphor for so long, we don't see it anymore.
+
+---
+
+<section data-background="neatline.png">
+Note:
+hundreds of years of getting to consensus on viz; map w/ north at top, TVP story
+</section>
+
+---
+
 Weirdness of 'seeing the past'
 
 ---
@@ -84,13 +95,6 @@ Stu Eve app. This video continues to blow me away. No AR app I've seen in the in
 ---
 
 even an essay is an attempt at augmented or virtual reality
-
----
-
-<section data-background="neatline.png">
-Note:
-hundreds of years of getting to consensus on viz; map w/ north at top, TVP story
-</section>
 
 ---
 
