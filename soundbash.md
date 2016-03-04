@@ -157,6 +157,10 @@ Some focus on pushing the physical into the digital and back to the physical wor
 
 ---
 
+![dirtydata](rob-dirty-ocr.png)
+
+---
+
 Some tell algorithmic stories.
 
 ---
