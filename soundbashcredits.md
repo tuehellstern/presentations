@@ -24,4 +24,4 @@ Images for sound bashing
 
 [Jascha Hoffman, Q&A: Acoustic archaeologist, Nature 506, 158 (13 February 2014)](http://www.nature.com/nature/journal/v506/n7487/full/506158a.html?WT.ec_id=NATURE-20140213)
 
-screenshots of student work shared with permission, but remain property of the students.
+screenshots of student work shared with permission, but remain property of the students. 
