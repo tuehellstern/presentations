@@ -24,10 +24,10 @@ _or_
 
 ---
 
-# Making, Breaking, and Writing History
+# Making, Breaking, and Bashing History
 
-<small>Follow along at [j.mp/ocdsb-sg](http://j.mp/ocdsb-sg)</small>
-<br><small>Supporting materials are at [j.mp/ocdsb-repo](http://j.mp/ocdsb-repo)</small>
+<small>Follow along at [j.mp/sg-bash](http://j.mp/sg-bash)</small>
+<br>
 <br><small>Dr. Shawn Graham, Dept of History, Carleton [@electricarchaeo](http://twitter.com/electricarchaeo)</small>
 
 ---
