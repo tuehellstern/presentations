@@ -352,4 +352,4 @@ Exits are: OUT
 
 ---
 
-[Sources for Images; all CC](https://github.com/shawngraham/presentations/blob/master/bash-images.md)
+<small>[Link to Sources for Images; all CC.](https://github.com/shawngraham/presentations/blob/master/bash-images.md)</small>
