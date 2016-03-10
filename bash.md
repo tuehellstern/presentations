@@ -275,15 +275,13 @@ The Medic's War
 
 ---
 
-![Imgur](http://i.imgur.com/XONpcHb.png)
-
----
-
 The only thing worse than writing a 5 pg essay is **not** writing a 5 pg essay.
 
 ---
 
-But... <br> Lack of grammar for the other modalities is an opportunity to figure out new ways of knowing.
+Bashing history upsets the game. This is good.
+<br>
+<br> Lack of grammar for the other modalities is an opportunity to figure out new ways of knowing.
 
 ---
 
