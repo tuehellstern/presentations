@@ -233,7 +233,7 @@ Some focus on place.
 
 ---
 
-Some focus on pushing the pyshical into the digital and back to the physical world.
+Some focus on pushing the physical into the digital and back to the physical world.
 
 ---
 
@@ -316,7 +316,8 @@ You don't have to buy what I'm selling. But...
 
 ---
 
-?
+#?
+<br>
 ![slackjawed](https://upload.wikimedia.org/wikipedia/commons/d/d7/Don_Knotts_Jim_Nabors_Andy_Griffith_Show_1964.JPG)
 
 ---
