@@ -279,9 +279,13 @@ The only thing worse than writing a 5 pg essay is **not** writing a 5 pg essay.
 
 ---
 
-Bashing history upsets the game. This is good.
+Bashing history upsets the game. 
+
+---
+
+This is good.
 <br>
-<br> Lack of grammar for the other modalities is an opportunity to figure out new ways of knowing.
+<br> Lack of grammar for the other modalities is an opportunity to figure out new ways of knowing, to 'see' things afresh.
 
 ---
 
