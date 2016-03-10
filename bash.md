@@ -24,7 +24,7 @@ _or_
 
 ---
 
-# Making, Breaking, and Writing History
+## Why I Stopped Assigning Essays and Started Making and Breaking Things
 
 <small>Follow along at [j.mp/sg-bash](http://j.mp/sg-bash)</small>
 <br>
