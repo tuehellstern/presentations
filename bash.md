@@ -209,6 +209,8 @@ this is where I talk about unessays, about bashing stuff together to see what ha
 
 "How do we write good history?"
 
+...we bash it into a different form.
+
 ---
 
 <section data-background="https://farm5.staticflickr.com/4137/4791322423_7213b78fb9_b_d.jpg"></section>
