@@ -24,7 +24,7 @@ _or_
 
 ---
 
-# Making, Breaking, and Bashing History
+# Making, Breaking, and Writing History
 
 <small>Follow along at [j.mp/sg-bash](http://j.mp/sg-bash)</small>
 <br>
