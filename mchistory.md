@@ -50,8 +50,8 @@ Or when I hear 'gamify!'
 
 ---
 
-<section data-background="https://farm8.staticflickr.com/7243/13494766293_7ae4e50fef_k_d.jpg">
-</section>
+![img](https://farm8.staticflickr.com/7243/13494766293_7ae4e50fef_k_d.jpg)
+
 
 ---
 
@@ -91,7 +91,12 @@ Yes Keanu. Woah indeed.
 ---
 
 [RideauCraft](https://docs.google.com/presentation/d/1GYZKKFpatf0fYf71akcSvDu4Qtb1RA9fCPhcdtajaS4/edit?pli=1#slide=id.p)
-![Imgur](http://i.imgur.com/lvfbQh3.png)![img1](mcpics/rideau1.png)
+<table style="width:100%">
+  <tr>
+    <td>![Imgur](http://i.imgur.com/lvfbQh3.png)</td>
+    <td>![img1](mcpics/rideau1.png)</td>		
+  </tr>
+</table>
 
 ---
 
