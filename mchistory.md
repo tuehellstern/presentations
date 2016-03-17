@@ -38,7 +38,7 @@ But when I hear 'Digital Natives'
 
 ---
 
-<section data-background="https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/fink.png"></section>
+![img](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/fink.png)
 
 ---
 
@@ -101,13 +101,26 @@ Yes Keanu. Woah indeed.
 ---
 
 [VimyCraft](https://dl.dropboxusercontent.com/u/37716296/vimyparadata.html)
-![Imgur](http://i.imgur.com/Ez2Qs2c.png)![img3](mcpics/vimy3.png)![img1](mcpics/vimy1.png)
+<table style="width:100%">
+  <tr>
+    <td>![Imgur](http://i.imgur.com/Ez2Qs2c.png)</td>
+    <td>![img3](mcpics/vimy3.png)</td>
+    <td>![img1](mcpics/vimy1.png)</td>
+  </tr>
+  </table>
+
 
 ---
 
 [Portus](https://github.com/shawngraham/hist3812a/tree/master/fall-2014-student-projects/mc25566-portus)
-![img1](mcpics/portus1.png)![img](mcpics/portus2.png)![img3](mcpics/portus3.png)
+<table style="width:100%">
+  <tr>
+    <td>![img1](mcpics/portus1.png)</td>
+    <td>![img](mcpics/portus2.png)</td>
+    <td>![img3](mcpics/portus3.png)</td>
+  </tr>
 
+</table>
 ---
 
 ## Remember Folks:
