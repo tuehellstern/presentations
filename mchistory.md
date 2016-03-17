@@ -20,7 +20,7 @@ _or_
 
 ## How do you train historians<br>to write history<br>through games?
 
-<small>Follow along at [j.mp/sg-bash](http://j.mp/sg-bash)</small>
+<small>Follow along at [j.mp/sg-mc](http://j.mp/sg-mc)</small>
 <br>
 <br><small>Dr. Shawn Graham, Dept of History, Carleton [@electricarchaeo](http://twitter.com/electricarchaeo)</small>
 
@@ -91,7 +91,7 @@ Yes Keanu. Woah indeed.
 ---
 
 [RideauCraft](https://docs.google.com/presentation/d/1GYZKKFpatf0fYf71akcSvDu4Qtb1RA9fCPhcdtajaS4/edit?pli=1#slide=id.p)
-  <section data-background="http://i.imgur.com/lvfbQh3.png"><section>
+![img](http://i.imgur.com/lvfbQh3.png)
 
 ---
 
@@ -154,4 +154,4 @@ Exits are: OUT
 
 ---
 
-<small>[Link to Sources for Images; all CC.](https://github.com/shawngraham/presentations/blob/master/bash-images.md)</small>
+<small>[Link to Sources for Images; all CC.](https://github.com/shawngraham/presentations/blob/master/minecraft-images.md)</small>
