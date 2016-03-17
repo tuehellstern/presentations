@@ -91,13 +91,20 @@ Yes Keanu. Woah indeed.
 ---
 
 [RideauCraft](https://docs.google.com/presentation/d/1GYZKKFpatf0fYf71akcSvDu4Qtb1RA9fCPhcdtajaS4/edit?pli=1#slide=id.p)
-![Imgur](http://i.imgur.com/lvfbQh3.png)
+![Imgur](http://i.imgur.com/lvfbQh3.png)![img1](mcpics/rideau1.png)
 
 ---
 
 [VimyCraft](https://dl.dropboxusercontent.com/u/37716296/vimyparadata.html)
-![Imgur](http://i.imgur.com/Ez2Qs2c.png)
+![Imgur](http://i.imgur.com/Ez2Qs2c.png)![img3](mcpics/vimy3.png)![img1](mcpics/vimy1.png)
+
 ---
+
+[Portus](https://github.com/shawngraham/hist3812a/tree/master/fall-2014-student-projects/mc25566-portus)
+![img1](mcpics/portus1.png)![img](mcpics/portus2.png)![img3](mcpics/portus3.png)
+
+---
+
 ## Remember Folks:
 
 The only thing worse than writing a 5 pg essay is **not** writing a 5 pg essay.
@@ -105,6 +112,9 @@ The only thing worse than writing a 5 pg essay is **not** writing a 5 pg essay.
 ---
 
 Minecrafting History disrupts the game of being a student.
+
+Note:
+'What does good history look like?' in this medium confronts historiography, shared authority of humans with machines, emergent narratives about the past. Building algorithmic interpretations of history, forces us to be clear about what we think about the past, confronts students with their digital illiteracy, exposes students to a new audience for history. Minecraft as a platform is sufficiently low-rez that focus is on interaction rather than graphical fidelity, reflexivity: creative mode, survival mode
 
 ---
 
