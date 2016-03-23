@@ -102,7 +102,7 @@ Yes Keanu. Woah indeed.
 ---
 
 [VimyCraft](https://dl.dropboxusercontent.com/u/37716296/vimyparadata.html)
-<section data-background="http://i.imgur.com/Ez2Qs2c.png"></section>
+<section data-background="https://upload.wikimedia.org/wikipedia/commons/3/34/Ghosts_of_Vimy_Ridge.jpeg"></section>
 
 ---
 
