@@ -114,7 +114,7 @@ Yes Keanu. Woah indeed.
 
 ---
 
-[Portus](https://github.com/shawngraham/hist3812a/tree/master/fall-2014-student-projects/mc25566-portus)
+[The Slave of Portus](https://github.com/shawngraham/hist3812a/tree/master/fall-2014-student-projects/mc25566-portus)
 <section data-background="mcpics/portus1.png"></section>
 
 ---
