@@ -106,11 +106,11 @@ Yes Keanu. Woah indeed.
 
 ---
 
-<section data-background="mcpics/vimy3.png"></section>
+<section data-background="mcpics/vimy1.png"></section>
 
 ---
 
-<section data-background="mcpics/vimy1.png"></section>
+<section data-background="mcpics/vimy3.png"></section>
 
 ---
 
