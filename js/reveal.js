@@ -1038,7 +1038,7 @@ var Reveal = (function(){
 			// Dimensions of the content
 			var slideWidth = config.width,
 				slideHeight = config.height,
-				slidePadding = 20; // TODO Dig this out of DOM
+				slidePadding = 20; // DONE:0 Dig this out of DOM
 
 			// Layout the contents of the slides
 			layoutSlideContents( config.width, config.height, slidePadding );
@@ -3000,7 +3000,7 @@ var Reveal = (function(){
 	 */
 	function onOverviewSlideClicked( event ) {
 
-		// TODO There's a bug here where the event listeners are not
+		// DONE:30 There's a bug here where the event listeners are not
 		// removed after deactivating the overview.
 		if( eventsAreBound && isOverview() ) {
 			event.preventDefault();
