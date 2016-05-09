@@ -121,10 +121,10 @@ Note: 2013 consumer electronics show- was on display. visually impaired, touchin
 
 --
 <section data-background="getty-kouros.png">
-
-<small>"One of those two Zippo lighters was in Franklin D. Roosevelt's pocket when he was assassinated. And one wasn't. One has historicity, a hell of a lot of it. As much as any object ever had. And one has nothing. Can you feel it? … You can't. You can’t tell which is which. There’s no 'mystical plasmic presence,' no 'aura' around it." —Philip K. Dick, The Man in the High Castle<small>
+"One of those two Zippo lighters was in Franklin D. Roosevelt's pocket when he was assassinated. And one wasn't. One has historicity, a hell of a lot of it. As much as any object ever had. And one has nothing. Can you feel it? … You can't. You can’t tell which is which. There’s no 'mystical plasmic presence,' no 'aura' around it." —Philip K. Dick, The Man in the High Castle
 </section>
-Note: now we're getting at the idea of 'aura' https://cosmowenman.wordpress.com/2015/05/16/the-getty-kouros-published/
+
+Note: now we're getting at the idea of 'aura' 
 
 --
 
