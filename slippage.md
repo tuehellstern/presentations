@@ -47,6 +47,8 @@ When my class printed out that 'liberated' data file, what crime are we committi
 ---
 
 The Palmyrene arch
+![img](http://i2.cdn.turner.com/cnnnext/dam/assets/160419145853-palmyra-arch-of-triumph-final-2-super-169.jpg)
+Note: look at the associations of space within trafalgar square, too 
 
 --
 
