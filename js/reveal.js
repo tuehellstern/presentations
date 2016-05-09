@@ -3000,7 +3000,7 @@ var Reveal = (function(){
 	 */
 	function onOverviewSlideClicked( event ) {
 
-		// DONE:30 There's a bug here where the event listeners are not
+		// DONE:50 There's a bug here where the event listeners are not
 		// removed after deactivating the overview.
 		if( eventsAreBound && isOverview() ) {
 			event.preventDefault();
