@@ -219,5 +219,18 @@ Note: we fill in gaps in the sound with our expectations. Consider this video wh
 # Glitch<br>Blur<br>Blend<br>Break<br> <br> <br> <br> <br> <br> <br> <br>.
 <section data-background="https://farm8.staticflickr.com/7188/6786558606_24bf54c04c_o_d.jpg">
 Note:Digitization, smearing back and forth from analogue to digital and back - it's not about the object itself. It's what it does to how I think that matters. It's a method to think about a world in which nearly perfect replicas are shortly to arrive. It's to archaeology what [Voyan-Tools](http://voyant-tools.org) is to text
-
 </section>
+
+---
+- Digitization, smearing back and forth from analogue to digital and back - it's not about the object itself.
+  - It's what it does to how I think that matters.
+  - It's a method to think about a world in which nearly perfect replicas are shortly to arrive.
+  - It is to archaeology what [Voyan-Tools](http://voyant-tools.org) is to text
+
+--
+
+[@electricarcaheo](http://twitter.com/electricarchaeo)
+
+[http://smgprojects.github.io/](http://smgprojects.github.io/)
+
+_thank you!_
