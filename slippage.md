@@ -100,6 +100,8 @@ Note: look at the associations of space within trafalgar square, too
 
 --
 
+![img](boyle-tweet.png)
+
 - a digital colonialism?
 - an argument in support of Assad?
 - digital tech is never _neutral_
