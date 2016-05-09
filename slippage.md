@@ -13,6 +13,16 @@ _or_
 #### digital archaeology as a process of databending
 
 ---
+
+#### the plan
++ a bit about glitch
++ a bit about what is proper
++ glitching as a way of exploring the bone trade
+  + soundbashing images, 3d printing Instagram
+
+---
+
+
 <section data-background="http://67.media.tumblr.com/cb29e3226d913336a24d9735dee9bf13/tumblr_inline_mzf1diAeod1r11yps.png">
 </section>
 
@@ -34,17 +44,17 @@ If digital transcoding seeks always to reconstitute itself in a proper way, then
 
 --
 
-Worth remembering that all digital data is, ultimately, physical _somewhere_
+Worth remembering that all digital data is, ultimately, in physical form _somewhere_
 
 --
 
 Physical things can be liberated.
 
 --
+![img](http://i.imgur.com/eX9JReA.png)
 
-<section data-background="http://www.mobygames.com/images/shots/l/431761-the-young-indiana-jones-chronicles-nes-screenshot-cutscene.png">
+'the past' reconstituted in a proper way
 </section>
-Note: 'the past' reconstituted in a proper way
 
 ---
 
@@ -117,14 +127,7 @@ Well, maybe.
 
 ![wenman-thingverse](wenman-thingverse.png)
 
-Note: 2013 consumer electronics show- was on display. visually impaired, touching, etc. also note the 'remix' count, that someone was taking this apart to make something new.
-
---
-<section data-background="getty-kouros.png">
-"One of those two Zippo lighters was in Franklin D. Roosevelt's pocket when he was assassinated. And one wasn't. One has historicity, a hell of a lot of it. As much as any object ever had. And one has nothing. Can you feel it? … You can't. You can’t tell which is which. There’s no 'mystical plasmic presence,' no 'aura' around it." —Philip K. Dick, The Man in the High Castle
-</section>
-
-Note: now we're getting at the idea of 'aura'
+Note: 2013 consumer electronics show- was on display. visually impaired, touching, etc. For that person, it had 'aura' in a way the look-but-don't-touch of the BM can't. Thus aura is dependent on sense. also note the 'remix' count, that someone was taking this apart to make something new.
 
 --
 
@@ -138,13 +141,15 @@ Note: BM making things downloadable now; 2.5k downloads on this one alone. No ne
 
 ---
 
-- Aura happens when we glitch it. When we smear from the digital into the physical.
+#Aura happens when we glitch.
+- When we smear from the digital into the physical.
+- When we have to use a different sense to _make sense_.
 
 --
 
 > Digital data does not contain its own interpretation...Glitch art is a refusal to submit to this intended interpretation [Manon & Temkin 2011](http://www.worldpicturejournal.com/WP_6/Manon.html)
 
---
+---
 
 ### Buying and Selling Human Remains on Instagram
 
@@ -152,6 +157,8 @@ Note: BM making things downloadable now; 2.5k downloads on this one alone. No ne
 Note:
 Thus, I'm using glitch art or databending as a way of understanding this trade. I look at the language of the associated comments as a physical landscape (word vectors). I look at them as bags of words (topic models). I wonder about colour, hue, and saturation as perhaps signalling something in these pictures that the comments don't reveal.
 --
+
+### 9000 images scraped last month
 
 ![9000-bone-pics-instagram](9000bone.jpg)
 
@@ -208,9 +215,9 @@ Note: we fill in gaps in the sound with our expectations. Consider this video wh
 ![img](9000images3dspace.jpg)
 
 ---
+<div align="left">
+# Glitch<br>Blur<br>Blend<br>Break<br> <br> <br> <br> <br> <br> <br> <br>.
+<section data-background="https://farm8.staticflickr.com/7188/6786558606_24bf54c04c_o_d.jpg">
+Note:Digitization, smearing back and forth from analogue to digital and back - it's not about the object itself. It's what it does to how I think that matters. It's a method to think about a world in which nearly perfect replicas are shortly to arrive. It's to archaeology what [Voyan-Tools](http://voyant-tools.org) is to text
 
-# Glitch/Blur/<br>Blend
-
-- yadda yadda something about what I'm now thinking
-- Digitization, smearing back and forth from analogue to digital and back - it's not about the object itself. It's what it does to how I think that matters. It's a method to think about a world in which nearly perfect replicas are shortly to arrive. It's a method to think... something from R&S's hermenuetica. Whalen's imj.
-- A physical/sonic corollary to those tools.
+</section>
