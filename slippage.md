@@ -42,7 +42,7 @@ Physical things can be liberated.
 
 --
 
-<section data-background="belongsinmuseum.png">
+<section data-background="http://www.mobygames.com/images/shots/l/431761-the-young-indiana-jones-chronicles-nes-screenshot-cutscene.png">
 </section>
 Note: 'the past' reconstituted in a proper way
 
@@ -124,7 +124,7 @@ Note: 2013 consumer electronics show- was on display. visually impaired, touchin
 "One of those two Zippo lighters was in Franklin D. Roosevelt's pocket when he was assassinated. And one wasn't. One has historicity, a hell of a lot of it. As much as any object ever had. And one has nothing. Can you feel it? … You can't. You can’t tell which is which. There’s no 'mystical plasmic presence,' no 'aura' around it." —Philip K. Dick, The Man in the High Castle
 </section>
 
-Note: now we're getting at the idea of 'aura' 
+Note: now we're getting at the idea of 'aura'
 
 --
 
@@ -209,7 +209,7 @@ Note: we fill in gaps in the sound with our expectations. Consider this video wh
 
 ---
 
-# Glitch/Blur/Blend
+# Glitch/Blur/<br>Blend
 
 - yadda yadda something about what I'm now thinking
 - Digitization, smearing back and forth from analogue to digital and back - it's not about the object itself. It's what it does to how I think that matters. It's a method to think about a world in which nearly perfect replicas are shortly to arrive. It's a method to think... something from R&S's hermenuetica. Whalen's imj.
