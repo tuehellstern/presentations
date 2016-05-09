@@ -1,16 +1,54 @@
-# Blur
+# ArchaeoGlitching
 
 _or_
 
-### ...analog to digital to analog to digital to analog...
+## there's nothing to which the prefix 'archaeo' can't be added
+
+_or_
+
+### ...blurring analog to digital to analog to digital to analog...
+
+_or_
+
+#### digital archaeology as a process of databending
+
+---
+<section data-background="http://67.media.tumblr.com/cb29e3226d913336a24d9735dee9bf13/tumblr_inline_mzf1diAeod1r11yps.png">
+</section>
+
+Note: the problem of 'aura'. glitch solves this
+
+---
+<section data-background="http://img.weburbanist.com/wp-content/uploads/2008/08/banksy-graffiti-cave-art.jpg">
+<div align="left">
+
+If digital transcoding seeks always to reconstitute itself in a proper way, then glitch is an instance in which analog punks digital. - [Manon & Temkin 2011](http://www.worldpicturejournal.com/WP_6/Manon.html)
+</section>
 
 ---
 
-![blur](https://upload.wikimedia.org/wikipedia/en/4/47/Blur_-_The_Best_of_-_cover_art.jpg)
+### The Materiality of the digital
 
-_not this Blur_
+| ![analog](http://www.topdesignmag.com/wp-content/uploads/2010/11/1000x-zoom-on-a-vinyl.jpg) | ![digital](http://www.topdesignmag.com/wp-content/uploads/2010/11/350x-zoom-on-a-cd.jpg) |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+
+--
+
+Worth remembering that all digital data is, ultimately, physical _somewhere_
+
+--
+
+Physical things can be liberated.
+
+--
+
+<section data-background="belongsinmuseum.png">
+</section>
+Note: 'the past' reconstituted in a proper way
 
 ---
+
+## Data theft as punking the museum
 
 ![nefertiti-split](http://www.youngmanblog.com/wp-content/uploads/2016/03/nefertiti-Bust-scan.jpg)
 
@@ -40,7 +78,7 @@ When my class printed out that 'liberated' data file, what crime are we committi
 
 - is it a continuation of the looting of Egypt?
 
-- is it a kind of partage?
+- is it a kind of _partage_?
 
 - is it a crime at all?
 
@@ -52,17 +90,20 @@ Note: look at the associations of space within trafalgar square, too
 
 --
 
-- a neo-colonialism?
 - a digital colonialism?
 - an argument in support of Assad?
 - digital tech is never _neutral_
 
 ---
 
+> When glitches manifest, they are a sudden phenomenological intrusion, a break in the order of logic - [Manon & Temkin 2011](http://www.worldpicturejournal.com/WP_6/Manon.html)
+
+---
+
 - archaeological data are meaningful insofar as they have context
 - is the scan (whatever its 'reality') meaningful, archaeologically?
 
-- 3d scans of objects in the present are archaeologically meaningful only within the archaeological present
+Note: I'm thinking 3d scans of objects in the present are archaeologically meaningful only within the archaeological present
 
 --
 
@@ -79,9 +120,10 @@ Well, maybe.
 Note: 2013 consumer electronics show- was on display. visually impaired, touching, etc. also note the 'remix' count, that someone was taking this apart to make something new.
 
 --
+<section data-background="getty-kouros.png">
 
-![getty-kouros](getty-kouros.png)
-
+<small>"One of those two Zippo lighters was in Franklin D. Roosevelt's pocket when he was assassinated. And one wasn't. One has historicity, a hell of a lot of it. As much as any object ever had. And one has nothing. Can you feel it? … You can't. You can’t tell which is which. There’s no 'mystical plasmic presence,' no 'aura' around it." —Philip K. Dick, The Man in the High Castle<small>
+</section>
 Note: now we're getting at the idea of 'aura' https://cosmowenman.wordpress.com/2015/05/16/the-getty-kouros-published/
 
 --
@@ -96,7 +138,11 @@ Note: BM making things downloadable now; 2.5k downloads on this one alone. No ne
 
 ---
 
-- What happens if we smear from the digital into the physical?
+- Aura happens when we glitch it. When we smear from the digital into the physical.
+
+--
+
+> Digital data does not contain its own interpretation...Glitch art is a refusal to submit to this intended interpretation [Manon & Temkin 2011](http://www.worldpicturejournal.com/WP_6/Manon.html)
 
 --
 
@@ -104,8 +150,7 @@ Note: BM making things downloadable now; 2.5k downloads on this one alone. No ne
 
 ![img](bonetradesampler.png)
 Note:
-Big data from culling the posts gives me some insight, esp when I represent as vector models, some of the explicit language behind this trade, and ways that people signal that something is for sale. But it also misses the visual signals in the composition of the images itself. For that, I have to go in and read these hidden cues - rather like a kind of steganography that is explicitly meant to conceal the trade from algorithmic monitoring. This kind of reaction is also present on Facebook or Twitter as people 'template' themselves for particular audiences. The danger is that these templated selves could become algorithmic prisons: our performances in reaction to alogorithms that make assumptions about how the world work cease to become performances and instead become real. This is big data gothic.
-
+Thus, I'm using glitch art or databending as a way of understanding this trade. I look at the language of the associated comments as a physical landscape (word vectors). I look at them as bags of words (topic models). I wonder about colour, hue, and saturation as perhaps signalling something in these pictures that the comments don't reveal.
 --
 
 ![9000-bone-pics-instagram](9000bone.jpg)
@@ -164,7 +209,7 @@ Note: we fill in gaps in the sound with our expectations. Consider this video wh
 
 ---
 
-# Blur
+# Glitch/Blur/Blend
 
 - yadda yadda something about what I'm now thinking
 - Digitization, smearing back and forth from analogue to digital and back - it's not about the object itself. It's what it does to how I think that matters. It's a method to think about a world in which nearly perfect replicas are shortly to arrive. It's a method to think... something from R&S's hermenuetica. Whalen's imj.
