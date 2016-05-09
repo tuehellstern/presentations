@@ -16,17 +16,17 @@ _not this Blur_
 
 --
 
-![nefertiti scan](/images/nefertiti-scan.jpg)
+![nefertiti scan](nefertiti-scan.jpg)
 
 Note: Nora Al-Badri and Jan Nikolai Nelles; 'kinect hack' Neues Museum Berlin
 
 --
 
-![nef-webpage](/images/nef-webpage.png)
+![nef-webpage](nef-webpage.png)
 
 --
 
-![ars-tech](/images/ars-tech-heist-scan.png)
+![ars-tech](ars-tech-heist-scan.png)
 
 ---
 
@@ -48,7 +48,7 @@ When my class printed out that 'liberated' data file, what crime are we committi
 
 The Palmyrene arch
 ![img](http://i2.cdn.turner.com/cnnnext/dam/assets/160419145853-palmyra-arch-of-triumph-final-2-super-169.jpg)
-Note: look at the associations of space within trafalgar square, too 
+Note: look at the associations of space within trafalgar square, too
 
 --
 
@@ -74,19 +74,19 @@ Well, maybe.
 
 --
 
-![wenman-thingverse](/images/wenman-thingverse.png)
+![wenman-thingverse](wenman-thingverse.png)
 
 Note: 2013 consumer electronics show- was on display. visually impaired, touching, etc. also note the 'remix' count, that someone was taking this apart to make something new.
 
 --
 
-![getty-kouros](/images/getty-kouros.png)
+![getty-kouros](getty-kouros.png)
 
 Note: now we're getting at the idea of 'aura' https://cosmowenman.wordpress.com/2015/05/16/the-getty-kouros-published/
 
 --
 
-![british-museum](/images/british-museum.png)
+![british-museum](british-museum.png)
 Note: BM making things downloadable now; 2.5k downloads on this one alone. No need to heist?
 
 ---
@@ -108,17 +108,17 @@ Big data from culling the posts gives me some insight, esp when I represent as v
 
 --
 
-![9000-bone-pics-instagram](/images/9000bone.jpg)
+![9000-bone-pics-instagram](9000bone.jpg)
 
 Note: human bones, human skulls, context-less, literal things. turned into digital images for ease of trade. often not with any other meta data than a tag #humanbone or #humanskull; how do these people signal that something is for sale? Sometimes, quite baldly stating:
 
 --
 
-![boneforsale](/images/skull-for-sale.jpg)
+![boneforsale](skull-for-sale.jpg)
 
 --
 
-![sorted-bone-images](/images/sorted-bone-images.jpg)
+![sorted-bone-images](sorted-bone-images.jpg)
 
 Note: clearly, there is something going on. This is hue v. saturation.
 
@@ -146,7 +146,7 @@ Note: we fill in gaps in the sound with our expectations. Consider this video wh
 
 --
 
-![bonesong](/images/bonesong.png)
+![bonesong](bonesong.png)
 
 [Human Bone Song](https://soundcloud.com/shawn-graham-60451318/humanbonesong)
 
@@ -160,7 +160,7 @@ Note: we fill in gaps in the sound with our expectations. Consider this video wh
 
 - Same data, represented in 3d space
 
-![img](/images/9000images3dspace.jpg)
+![img](9000images3dspace.jpg)
 
 ---
 
