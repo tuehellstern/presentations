@@ -2,15 +2,15 @@
 
 _or_
 
-## there's nothing to which the prefix 'archaeo' can't be added
+## ...blurring analog to digital to analog to digital to analog...
 
 _or_
 
-### ...blurring analog to digital to analog to digital to analog...
+### digital archaeology as a process of databending
 
 _or_
 
-#### digital archaeology as a process of databending
+#### there's nothing to which the prefix 'archaeo' can't be added
 
 ---
 
@@ -29,8 +29,8 @@ _or_
 Note: the problem of 'aura'. glitch solves this
 
 ---
-<section data-background="http://img.weburbanist.com/wp-content/uploads/2008/08/banksy-graffiti-cave-art.jpg">
-<div align="left">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rr12u1tk_rM" frameborder="0" allowfullscreen></iframe>
 
 If digital transcoding seeks always to reconstitute itself in a proper way, then glitch is an instance in which analog punks digital. - [Manon & Temkin 2011](http://www.worldpicturejournal.com/WP_6/Manon.html)
 </section>
@@ -82,7 +82,7 @@ What's more interesting? <br> The idea of an illegal scan? <br> Or the idea of d
 
 --
 
-When my class printed out that 'liberated' data file, what crime are we committing?
+When my class printed out that 'liberated' data file, what crime were we committing?
 
 - is it an IP crime?
 
@@ -91,6 +91,10 @@ When my class printed out that 'liberated' data file, what crime are we committi
 - is it a kind of _partage_?
 
 - is it a crime at all?
+
+--
+
+<iframe src="http://playcanv.as/p/995ac005" width="800" height="800"></iframe>
 
 ---
 
@@ -102,18 +106,30 @@ Note: look at the associations of space within trafalgar square, too
 
 ![img](boyle-tweet.png)
 
+--
+
 - a digital colonialism?
 - an argument in support of Assad?
 - digital tech is never _neutral_
 
 ---
 
+'Replication as a way of knowing in the digital humanities'
+
+- title of talk [by Geoffrey Rockwell](http://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/aktuelles/meldungen/single/artikel/abendvortrag-replication-as-a-way-of-knowing-in-the-digital-humanities/)
+
+--
+
+That's a very archaeological sentiment, yes?
+
+--
+
 > When glitches manifest, they are a sudden phenomenological intrusion, a break in the order of logic - [Manon & Temkin 2011](http://www.worldpicturejournal.com/WP_6/Manon.html)
 
 ---
 
 - archaeological data are meaningful insofar as they have context
-- is the scan (whatever its 'reality') meaningful, archaeologically?
+- is a scan (whatever its 'reality') meaningful, archaeologically?
 
 Note: I'm thinking 3d scans of objects in the present are archaeologically meaningful only within the archaeological present
 
@@ -139,12 +155,16 @@ Note: BM making things downloadable now; 2.5k downloads on this one alone. No ne
 ---
 
 - Smearing from the physical into the digital: we get it. It makes 'sense'.
+<br><br>
+
 - We call it 'digitization'
 
 ---
 
 #Aura happens when we glitch.
+<br><br>
 - When we smear from the digital into the physical.
+<br><br>
 - When we have to use a different sense to _make sense_.
 
 --
@@ -224,15 +244,19 @@ Note:Digitization, smearing back and forth from analogue to digital and back - i
 </section>
 
 ---
-- Digitization, smearing back and forth from analogue to digital and back - it's not about the object itself.
-  - It's what it does to how I think that matters.
+
+So... what does this mean?
+
+--
+
+- Digitization, smearing back and forth from analogue to digital and back - it's not about the [digital/physical] object itself.
+<br><br>
+  - It's what it does to how we think that matters.
   - It's a method to think about a world in which nearly perfect replicas are shortly to arrive.
   - It is to archaeology what [Voyan-Tools](http://voyant-tools.org) is to text
 
 --
 
-[@electricarcaheo](http://twitter.com/electricarchaeo)
-
-[http://smgprojects.github.io/](http://smgprojects.github.io/)
-
-_thank you!_
+| [@electricarcaheo](http://twitter.com/electricarchaeo)<br>[http://smgprojects.github.io/](http://smgprojects.github.io/)<br>_thank you!_ |                                           |
+|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+|                                                                                                                                          | ![deepdreampompeii](deepdreampompeii.png) |
