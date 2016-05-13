@@ -173,6 +173,12 @@ Note: BM making things downloadable now; 2.5k downloads on this one alone. No ne
 
 ---
 
+Ok, bear with me. I'm going to deliberately glitch some stuff.
+
+First, some background.
+
+---
+
 ### Buying and Selling Human Remains on Instagram
 
 <small> Damien Huffer, principle investigator</small>
@@ -209,6 +215,10 @@ Note: clearly, there is something going on. This is hue v. saturation.
 Note:
 photobashing ... occupies a liminal position in archae because it puts 'something captured through a mechanical process through a subjective one'
 Value in it- because it 'sit[s] at an intersection of subjective processes and mechanical capture, allows for some interesting interactions and reflexivity between both sides of this discussion'. Photobashing is deformation.
+
+--
+
+So here's where the glitch happens. It's a glitch of proper scholarly methods.
 
 --
 
@@ -257,7 +267,7 @@ So... what does this mean?
 <br><br>
   - It's what it does to how we think that matters.
   - It's a method to think about a world in which nearly perfect replicas are shortly to arrive.
-  - It is to archaeology what [Voyan-Tools](http://voyant-tools.org) is to text
+  - It is to archaeology what [Voyant-Tools](http://voyant-tools.org) is to text
 
 --
 
