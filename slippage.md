@@ -203,6 +203,7 @@ Note: clearly, there is something going on. This is hue v. saturation.
 ### Blurring to create intelligibility
 
 ![Tara Copplestone Watercolor](copplestone-watercolor.png)
+<small> - Tara Copplestone </small>
 
 Note:
 photobashing ... occupies a liminal position in archae because it puts 'something captured through a mechanical process through a subjective one'
