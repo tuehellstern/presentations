@@ -203,6 +203,7 @@ Note: clearly, there is something going on. This is hue v. saturation.
 ### Blurring to create intelligibility
 
 ![Tara Copplestone Watercolor](copplestone-watercolor.png)
+
 <small> - Tara Copplestone </small>
 
 Note:
