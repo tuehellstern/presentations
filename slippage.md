@@ -175,6 +175,7 @@ Note: BM making things downloadable now; 2.5k downloads on this one alone. No ne
 
 ### Buying and Selling Human Remains on Instagram
 
+<small> Damien Huffer, principle investigator</small>
 ![img](bonetradesampler.png)
 Note:
 Thus, I'm using glitch art or databending as a way of understanding this trade. I look at the language of the associated comments as a physical landscape (word vectors). I look at them as bags of words (topic models). I wonder about colour, hue, and saturation as perhaps signalling something in these pictures that the comments don't reveal.
