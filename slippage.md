@@ -17,7 +17,7 @@ _or_
 
 #### the plan
 + a bit about glitch
-+ a bit about what is proper
++ glitch and aura and replication
 + glitching as a way of exploring the bone trade
   + soundbashing images, 3d printing Instagram
 
