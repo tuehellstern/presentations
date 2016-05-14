@@ -76,22 +76,6 @@ Note: Nora Al-Badri and Jan Nikolai Nelles; 'kinect hack' Neues Museum Berlin
 
 ![ars-tech](ars-tech-heist-scan.png)
 
----
-
-What's more interesting? <br> The idea of an illegal scan? <br> Or the idea of data theft?
-
---
-
-When my class printed out that 'liberated' data file, what crime were we committing?
-
-- is it an IP crime?
-
-- is it a continuation of the looting of Egypt?
-
-- is it a kind of _partage_?
-
-- is it a crime at all?
-
 --
 
 <iframe src="http://playcanv.as/p/995ac005" width="800" height="800"></iframe>
