@@ -12,6 +12,7 @@ _or_
 
 #### there's nothing to which the prefix 'archaeo' can't be added
 
+<small> Follow along at [http://j.mp/sg-glitch](http://j.mp/sg-glitch)</small>
 ---
 
 #### the plan
