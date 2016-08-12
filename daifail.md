@@ -11,9 +11,8 @@ _msudai 2016_</small>
 ---
 #### but first, a word from the Lord Commander
 
-<video width="1120" height="630" controls>
-    <source src="/failpics/goodfailagain.mp4" type="video/mp4">
-</video>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/InTbHLzUMdA" frameborder="0" allowfullscreen></iframe>
+
 ---
 <section data-background="/failpics/3798461709_a6c4d7d3cf_b.jpg">
 
