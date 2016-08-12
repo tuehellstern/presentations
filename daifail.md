@@ -14,7 +14,7 @@ _msudai 2016_</small>
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/InTbHLzUMdA" frameborder="0" allowfullscreen></iframe>
 
 ---
-<section data-background="/failpics/3798461709_a6c4d7d3cf_b.jpg">
+<section data-background="failpics/3798461709_a6c4d7d3cf_b.jpg">
 
 <div align="left"; style="background-color: grey; opacity: 0.8">
 <h2 style="color:black">Structure of this talk</h2>
@@ -68,14 +68,14 @@ Note:
 
 ---
 
-![img](/failpics/failfast.png)![img](/failpics/failfastdetailresults.png)
+![img](failpics/failfast.png)![img](failpics/failfastdetailresults.png)
 
 Note:
 see the first use of fail-fast in education there? Seems to be the earliest use my cursory exploration has found of the 'fail fast' ideology moving out of tech to education. But this doesn't seem to be the idea that explodes into the 'fail' ideology
 
 ---
 
-![img](/failpics/failbettervsfailfast.png)
+![img](failpics/failbettervsfailfast.png)
 
 Note:
 Earliest use of the 'fail better' idea that I can find outside the world of literature and criticism seems to occur during the first tech boom, where it turns up in everything from diet books to learning to play jazz, to technology: The Quest for a Unified Theory of Information. (Wolfgang Hofkirchner) That book according to google scholar, has been cited 13 times, but the things that cite it have themselves been cited over 600 times. I am merely speculating here on where this mantra of the fast fail, the fail better, comes from and how it spreads, but it would be a very interesting topic to explore.
@@ -110,7 +110,7 @@ Note: academia's systems are 'fragile' in that they do not tolerate fail; they a
 
 ---
 
-<section data-background="/failpics/streamgraph-topics-20000.png">
+<section data-background="failpics/streamgraph-topics-20000.png">
 <br><br><br><h2 style="color:black">Fail in the archaeological literature?</hr>
 
 Note: Do we *ever* talk about research that *doesn’t* confirm an hypothesis? Do we *ever* try to replicate someone else’s study?
@@ -123,27 +123,27 @@ Note: Do we *ever* talk about research that *doesn’t* confirm an hypothesis? D
 </section>
 ---
 
-![img](/failpics/data-in-20000.png)
+![img](failpics/data-in-20000.png)
 
 [Explore the corpus here](http://graeworks.net/digitalarchae/20000/)
 
 --
 
-![img](/failpics/topic45.png)
+![img](failpics/topic45.png)
 
 --
 
-![img](/failpics/topic55.png)
+![img](failpics/topic55.png)
 
 --
 
-![img](/failpics/academic-jargon.jpg)
+![img](failpics/academic-jargon.jpg)
 
 Note:
 Framing fail in research & professional practice. tendency to spin, frame as win ; leads to inflated claims of success; to value fail means to not play the academic game as we currently find it.
 
 ---
-<section data-background="/failpics/11071988936_00e4e163b3_z.jpg">
+<section data-background="failpics/11071988936_00e4e163b3_z.jpg">
 .<br><br><br><br><br><br><br><br><br><br><br><br><br><br><h1 style="color:black">A Personal History of Fail</h1>
 
 Note:
@@ -154,7 +154,7 @@ Note:
 
 ## My first glorious failure
 
-![img](/failpics/mygloriousfailure.png)
+![img](failpics/mygloriousfailure.png)
 
 Note:
 - Civ iv, my first glorious failure
@@ -168,8 +168,8 @@ Note:
 
 <table>
   <tr>
-    <th>![heritagecrowd](/failpics/heritagecrowd.png)</th>
-    <th>![blog](/failpics/blogreheritagecrowd.png)</th>
+    <th>![heritagecrowd](failpics/heritagecrowd.png)</th>
+    <th>![blog](failpics/blogreheritagecrowd.png)</th>
   </tr>
 </table>
 
@@ -201,8 +201,8 @@ I found the answer in the community to which I wasn't sure I yet belonged.
 
 <table>
   <tr>
-    <th>![redemption1](/failpics/redemption1.png)</th>
-    <th align="top">![redemption2](/failpics/redemption2.png)</th>
+    <th>![redemption1](failpics/redemption1.png)</th>
+    <th align="top">![redemption2](failpics/redemption2.png)</th>
   </tr>
 </table>
 
@@ -217,7 +217,7 @@ So let’s talk about some other fails; some are mine, and some are volunteered 
 --
 ## The Tiber Valley Project database
 
-![buzz](/failpics/buzzfail.jpg)
+![buzz](failpics/buzzfail.jpg)
 
 Note:
 I 'fixed' a form, with disastrous results...
@@ -225,7 +225,7 @@ I 'fixed' a form, with disastrous results...
 
 ## The wikiblitz
 
-![wiki](/failpics/wiki-ov.png)
+![wiki](failpics/wiki-ov.png)
 
 Note:
 - Simple straightforward class assignment: let’s collaboratively update a wikipedia page on the history of our region, and see what happens next
@@ -235,7 +235,7 @@ Note:
 --
 ## Stranger in these parts
 
-![stranger](/failpics/stranger.png)
+![stranger](failpics/stranger.png)
 
 Note:
 - Wrote an interactive fiction exploring the Romans’ conception of space
@@ -255,7 +255,7 @@ Note:
 --
 ## Use Cases with FAIMS
 courtesy Adela Sobotkova
-![faims](/failpics/faims.png)
+![faims](failpics/faims.png)
 
 (nb: FAIMS is not a fail)
 
@@ -269,7 +269,7 @@ Note:
 --
 ## Iroquoian Longhouse
 courtesy Michael Carter
-![img](/failpics/longhouse.png)
+![img](failpics/longhouse.png)
 
 Note:
 - Trying to procedurally model & animate an Iroquoian Longhouse
@@ -279,9 +279,9 @@ Note:
 
 <table>
   <tr>
-    <th>![card](/failpics/26647550201_e2cca35fd3_m.jpg)</th>
+    <th>![card](failpics/26647550201_e2cca35fd3_m.jpg)</th>
     <th></th>
-    <th>![gabe](/failpics/gaberearch.png)</th>
+    <th>![gabe](failpics/gaberearch.png)</th>
   </tr>
 </table>
 Card courtesy Zena Kamash; Tweet courtesy Gabe Moshenska
@@ -311,7 +311,7 @@ Cornell and Warnick, working from the perspective of digital pedagogy, identify 
 
 ## Classifying & Valorizing Fail
 
-![img](/failpics/categorizedfails.png)
+![img](failpics/categorizedfails.png)
 
 Note:
 -You might classify these differently
@@ -332,7 +332,7 @@ Thus, fundamentally, I believe that digital archaeology is so entwined with fail
 
 ---
 
-<section data-background="/failpics/3799287378_b94e81e307_b.jpg">
+<section data-background="failpics/3799287378_b94e81e307_b.jpg">
 </section>
 
 ---
@@ -365,7 +365,7 @@ nearest_to(blogmodel,blogmodel[["i"]])
 
 --
 
-![img](/failpics/dendrogram-i-vector-blogposts.png)
+![img](failpics/dendrogram-i-vector-blogposts.png)
 
 
 Note:
@@ -391,7 +391,7 @@ Note:
 
 ---
 
-![img](/failpics/them-versus-me-words-blogposts.png)
+![img](failpics/them-versus-me-words-blogposts.png)
 
 Note:
 -Negative I words? They seem to be tied to the confessional nature of the project blog posts: forgive me Ethan, for I have sinned. It has been two weeks since my last blog post…
