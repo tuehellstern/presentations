@@ -40,8 +40,10 @@ _msudai 2016_</small>
 
 > _Quod si deficiant vires, audacia certe <br> Laus erit: in magnis et voluisse sat est._ - Propertius
 
+> πῆρά τοι μαθήσιος ἀρχά - Alcman
+
 Note:
-Free translation - so what if you fail? Boldness itself will be enough to win praise: in great endeavors it is enough to have tried.
+Free translation - so what if you fail? Boldness itself will be enough to win praise: in great endeavors it is enough to have tried.. Greek: Trying is the first step of learning. Alcman, 7th c BC Greek poet from Sparta
 
 ---
 
