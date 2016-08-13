@@ -389,7 +389,7 @@ Note:
 -So I wondered to myself, how might I explore this further? I wondered if I could map the way y’all were speaking about your own work, in opposition to the machine. That is to say, to operationalize how ‘imposter syndrome’ might rear its ugly head
 -So I tried this: I crossed the streams of a vector that ran from things that were easy to do to things that were hard to do, against a vector that ran from ‘I’ to ‘it’. This aint’ perfect, but I figured it might tell us something useful.
 
----
+--
 
 ![img](failpics/them-versus-me-words-blogposts.png)
 
@@ -399,6 +399,77 @@ Note:
 -Positive I words? Bootstrap! Templates! Running! Design! Programming! Y’all seem to be having success there.
 -Negative ‘it’ words? Databases. Forms. Libreoffice….
 -So, it looks to me like ‘fail’ is in there, it’s just hiding as type 1. And perhaps, if I can get all meta for a moment, this chart could be considered a type 4 fail in that we are using ‘fail’ as an epistemology to understand better whether or not MSUDAI is actually achieving its goals. If the value of fail is as I described it a few moments ago, then we need all of us to work harder at the public side of fail, and of moving from types 1 and 2 to 3 and 4. As our discussion a moment ago demonstrates, you’re already there: but this is where imposter syndrome could be holding us back. We are (rightfully) loathe to discuss ‘fail’ in public for fear that we might be revealed to be the imposters we all know we are at heart.
+
+--
+
+## topic change over time
+
+![img](failpics/topicchange.png)
+
+Note:
+Not word vectors; LDA topic model. 24, 25, 7, and 11 are the topics that I identify as being (probably) related to ideas of 'fail' and getting past imposter syndrome, of getting comfortable with digital archaeology. What do you think? What should we make of their seeming increase?
+
+--
+
+I could be wrong.
+
+You can see for yourself: [https://github.com/shawngraham/jupyter-notebooks](https://github.com/shawngraham/jupyter-notebooks)
+
+---
+
+## Practical Magic
+![img](failpics/githubzenodo.png)
+
++ A fail shared is not a failure
++ A fail shared lets us all move forward
++ Githb + Fail Log + DOI means you still are winning
+
+--
+
+## Hierarchy of Reproducibility
+
+(from Marwick's [Primer on Reproducible Research](http://benmarwick.github.io/CSSS-Primer-Reproducible-Research/#/31))
+
++ **Good**: Use code with an integrated development environment (IDE). Minimize pointing and clicking (RStudio)
++ **Better**: Use version control. Help yourself keep track of changes, fix bugs and improve project management (RStudio & Git & GitHub or BitBucket)
++ **Best**: Use embedded narrative and code to explicitly link code, text and data, save yourself time, save reviewers time, improve your code. (RStudio & Git & GitHub or BitBucket & rmarkdown & knitr & data repository)
+
+--
+
+## Ben Marwick is Awesome
+
+![img](failpics/marwick-code-data.png)
+
+--
+
+Few of us are at that stage. What we can do:
+<br>
+
+- each experiment gets its own folder
+- each experiment has subfolders `data` and `figures` and `text` and `bib`
+- keep the experiments under version control.
+- submit the repository to [zenodo](http://zenodo.org) or similar to obtain DOIs.
+- write as you go, on a fail log or blog or what-have-you. Get DOI for this, too.
+
+<br>
+...and in this way fail sneaks into the game of being an academic: citations the coin of the realm.
+--
+
+![foreman-mackeyblog.png](failpics/foreman-mackeyblog.png)
+
+--
+
+![notebook](failpics/opennotebook.png)
+
+Note the arrow and bar at right. [Hypothesis](http://hypothes.is) integrated to allow pubic, private, and group annotations (& each annotation has its own url, too)
+
+--
+
+![eric](failpics/eric.png)
+
+Note:
+Sharing my fails in public has led to more opportunities for me than I could ever have imagined.
+
 ---
 # Embrace Imposter Syndrome
 
@@ -419,10 +490,11 @@ Here’s the thing about imposter syndrome:
 <div align="left"; style="background-color: grey; opacity: 0.8">
 <h3 style="color:black">To Fail Productively in Digital Archaeology</h3>
 <h2 style="color:black">Be Like Tiffany Aching<h2>
-<ol style="color:black; font-size: 32px;">
+<ol style="color:black; font-size: 28px;">
 <li>Think about what kind of fail you're dealing with. (Types 1 & 2)</li>
 <li>Think about how you're reacting to that fail. (Types 3 & 4)</li>
 <li>Reflect on that reaction</li>
+<li>Write it down where we can find it and read it!</li>
 </ol>
 <small>'Tiffany Aching' by [MargaritkaD](http://www.deviantart.com/art/Tiffany-Aching-301730745)</small>
 </div>
