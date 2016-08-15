@@ -6,7 +6,9 @@
 
 Carleton University
 
-_msudai 2016_</small>
+_msudai 2016_
+
+follow along at http://j.mp/msudaifail</small>
 
 ---
 #### but first, a word from the Lord Commander
