@@ -8,7 +8,7 @@ Carleton University
 
 _msudai 2016_
 
-follow along at http://j.mp/msudaifail</small>
+follow along at [http://j.mp/msudaifail](http://shawngraham.github.io/presentations/daifail.html#/)</small>
 
 ---
 #### but first, a word from the Lord Commander
