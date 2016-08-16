@@ -1,6 +1,6 @@
 ### _fail and loathing in east lansing_
-## Failing Productively
-# in Digital Archaeology
+# Failing Productively
+## in Digital Archaeology
 
 <small>Shawn Graham [@electricarchaeo](http://twitter.com/electricarchaeo)
 
