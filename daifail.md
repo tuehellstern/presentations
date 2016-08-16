@@ -1,4 +1,4 @@
-### flailing in public,
+### _fail and loathing in east lansing_
 ## Failing Productively
 # in Digital Archaeology
 
@@ -155,19 +155,6 @@ Note:
 
 </section>
 ---
-
-## My first glorious failure
-
-![img](failpics/mygloriousfailure.png)
-
-Note:
-- Civ iv, my first glorious failure
-- It was an utter flop. But I framed it as a win, in the first little wee piece I wrote on it
-- I eventually came around to framing it as a success for the students *who participated* but a ‘teachable moment’ for my own development as a teacher
-- Biggest issue was ‘creepy treehouse’ phenomenon, which I’ve since discovered in other guises, more on which in a moment (but in essence, the idea that there are ‘appropriate’ ways of using tech in teaching & research and woe betide the man who strays from the path of righteousness!
-
---
-
 #### The parable of heritagecrowd
 
 <table>
@@ -224,7 +211,18 @@ So let’s talk about some other fails; some are mine, and some are volunteered 
 ![buzz](failpics/buzzfail.jpg)
 
 Note:
-I 'fixed' a form, with disastrous results...
+I 'fixed' a form, with disastrous results... This was not a glorious failure.
+--
+## My first glorious failure
+
+![img](failpics/mygloriousfailure.png)
+
+Note:
+- Civ iv, my first glorious failure
+- It was an utter flop. But I framed it as a win, in the first little wee piece I wrote on it
+- I eventually came around to framing it as a success for the students *who participated* but a ‘teachable moment’ for my own development as a teacher
+- Biggest issue was ‘creepy treehouse’ phenomenon, which I’ve since discovered in other guises, more on which in a moment (but in essence, the idea that there are ‘appropriate’ ways of using tech in teaching & research and woe betide the man who strays from the path of righteousness!
+
 --
 
 ## The wikiblitz
@@ -264,12 +262,10 @@ courtesy Adela Sobotkova
 (nb: FAIMS is not a fail)
 
 Note:
-- Faims lady sent me a copy of her paper
+- Sobotkvoa sent me a copy of her paper
 - Faims a paperless recording system for archaeology
 - From their own case studies, they encountered a number of fails in their early days
 - Chief amongst these: things work in the lab that never work in the field; that no matter how much you think you’ve tested for every possibility, shit still happens
-… Need to think this example out more …  (come back to how this work fits into my taxonomy)
-
 --
 ## Iroquoian Longhouse
 courtesy Michael Carter
@@ -421,9 +417,9 @@ You can see for yourself: [https://github.com/shawngraham/jupyter-notebooks](htt
 
 ---
 
-## Practical Magic
-![img](failpics/githubzenodo.png)
+## a fail shared is not a failure
 
+Note:
 + A fail shared is not a failure
 + A fail shared lets us all move forward
 + Githb + Fail Log + DOI means you still are winning
@@ -431,6 +427,8 @@ You can see for yourself: [https://github.com/shawngraham/jupyter-notebooks](htt
 --
 
 ## Hierarchy of Reproducibility
+
+<small> or ways to share fails well </small>
 
 (from Marwick's [Primer on Reproducible Research](http://benmarwick.github.io/CSSS-Primer-Reproducible-Research/#/31))
 
@@ -440,7 +438,7 @@ You can see for yourself: [https://github.com/shawngraham/jupyter-notebooks](htt
 
 --
 
-## Ben Marwick is Awesome
+## Frankly, Ben Marwick is Awesome
 
 ![img](failpics/marwick-code-data.png)
 
