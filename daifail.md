@@ -473,11 +473,10 @@ Note:
 Sharing my fails in public has led to more opportunities for me than I could ever have imagined.
 
 ---
-# Embrace Imposter Syndrome
 
 <section data-background="http://static3.businessinsider.com/image/5281365cecad04a24735bc8b-1190-625/the-imposter-syndrome-is-more-common-than-you-think.jpg">
 
-<div style="background-color: grey; opacity: 0.8">My name is Shawn Graham, and I am an imposter.</div>
+My name is Shawn Graham, and I am an imposter.
 
 Note:I have been faking since 1997. Every friggin’ day I’m terrified that today will be the day when someone actually says, you’re not actually an archaeologist, you’re not actually a digital humanist.
 Actually, that *did* in fact happen to me in the feedback on a grant about three years ago. ‘Graham isn’t really an archaeologist, he just writes about the communication of archaeology’. And you know what? Assholes will ever be with us. The reviewer wrote that… but no one took my job. No one fired me. No one paid that arse any heed (well, except for me, because, you know, I’m human). We still won a bit of money for that project. Fuck you dude.
