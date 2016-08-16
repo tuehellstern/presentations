@@ -107,7 +107,7 @@ Connection of fail better, fail fast: perhaps what it really means is something 
 
 # the zero-sum games of academia
 
-<div align="left">Regardless of the origin or deep history of the productive fail, academia is set up deliberately to punish fail.<br><br>This is only starting to become widely recognized as a problem. Start with the '[Everything is Fucked Syllabus](https://hardsci.wordpress.com/2016/08/11/everything-is-fucked-the-syllabus/)'
+<div align="left">Regardless of the origin or deep history of the productive fail, academia is set up deliberately to punish fail.<br><br>This is only starting to become widely recognized as a problem. <br><br>Start with the '[Everything is Fucked Syllabus](https://hardsci.wordpress.com/2016/08/11/everything-is-fucked-the-syllabus/)'
 </div>
 
 Note: academia's systems are 'fragile' in that they do not tolerate fail; they are to a degree resilient, but they are not 'antifragile' in Taleb's sense. The idea that 'fail' can break that which is 'fragile' is part of the issue here. So silicon valley really means 'fail' in the sense of 'antifragile' but they frequently forget that; academia sees 'fail' as the breaking of something fragile; and so the two are at loggerheads. *Aside* - my DH stuff is consequently viewed with suspicion, as is anyone who embarks on this whole digital archaeology path.
@@ -324,7 +324,7 @@ Note:
 ## Credo
 
 _I believe that digital archaeology is defined by productive, pedagogical fail_ <br><br>
-_I believe that pedagogical aspect of digital archaeology makes it public archaeology_ <br><br>
+_I believe that this pedagogical aspect of digital archaeology makes it public archaeology_ <br><br>
 _I believe that failing in public is the most powerful thing that digital archaeology offers_ <br><br>
 
 Note:
@@ -447,9 +447,9 @@ Note:
 Few of us are at that stage. What we can do:
 <br>
 
-- each experiment gets its own folder
-- each experiment has subfolders `data` and `figures` and `text` and `bib`
-- keep the experiments under version control.
+- each experiment|project gets its own folder
+- each experiment|project has subfolders `data` and `figures` and `text` and `bib` etc
+- keep the experiments|projects under version control.
 - submit the repository to [zenodo](http://zenodo.org) or similar to obtain DOIs.
 - write as you go, on a fail log or blog or what-have-you. Get DOI for this, too.
 
@@ -477,7 +477,7 @@ Sharing my fails in public has led to more opportunities for me than I could eve
 
 <section data-background="http://static3.businessinsider.com/image/5281365cecad04a24735bc8b-1190-625/the-imposter-syndrome-is-more-common-than-you-think.jpg">
 
-My name is Shawn Graham, and I am an imposter.
+<div style="background-color: grey; opacity: 0.8">My name is Shawn Graham, and I am an imposter.</div>
 
 Note:I have been faking since 1997. Every friggin’ day I’m terrified that today will be the day when someone actually says, you’re not actually an archaeologist, you’re not actually a digital humanist.
 Actually, that *did* in fact happen to me in the feedback on a grant about three years ago. ‘Graham isn’t really an archaeologist, he just writes about the communication of archaeology’. And you know what? Assholes will ever be with us. The reviewer wrote that… but no one took my job. No one fired me. No one paid that arse any heed (well, except for me, because, you know, I’m human). We still won a bit of money for that project. Fuck you dude.
