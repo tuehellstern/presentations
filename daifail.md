@@ -506,3 +506,12 @@ Note:
 -You’re all of you digital archaeologists. You are leaders in your field. You do work that leaves me in awe. I can’t wait to see what you do next.
 
 </section>
+
+---
+### Thank You
+
+Ethan & Lynne & the NEH
+
+<small>Shawn Graham [@electricarchaeo](http://twitter.com/electricarchaeo)</small>
+
+[credits](daifailcredits.md)
