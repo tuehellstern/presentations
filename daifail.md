@@ -200,7 +200,7 @@ I found the answer in the community to which I wasn't sure I yet belonged.
 Note:
 -despair post & the response & the framing of what I was doing as perhaps more akin to Bethany’s ideas about our ‘lunatic’ moment. does that moment still exist? I hope it does
 ---
-# Fails I have Known
+# a whistle-stop tour of some more fails
 
 Note:
 So let’s talk about some other fails; some are mine, and some are volunteered to me via the kind people of the internet
