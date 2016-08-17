@@ -30,6 +30,7 @@ follow along at [http://j.mp/msudaifail](http://shawngraham.github.io/presentati
 <li> Imposter Syndrome & <br> Getting the Most out of Your Fails</li>
 </ul>
 </div>
+
 ---
 
 <section data-background="https://c2.staticflickr.com/6/5477/11307026894_892ff39220_b.jpg">
