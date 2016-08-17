@@ -511,7 +511,7 @@ Note:
 ### Thank You
 
 Ethan & Lynne & the NEH
-
-<small>Shawn Graham [@electricarchaeo](http://twitter.com/electricarchaeo)</small>
+<br><br><br><br><br><br>
+<small>Shawn Graham [@electricarchaeo](http://twitter.com/electricarchaeo)<br>Failing at Digital Archaeology since 1997!</small>
 
 [credits](daifailcredits.md)
