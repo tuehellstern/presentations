@@ -5,8 +5,8 @@ Unless otherwise noted, images in the presentation are screenshots from my own w
 ##Images that do not carry credit lines in the presentation:
 
 ###Flickr photos used are [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/2.0/)
-- Alexander Kelly, 'steps notice' https://www.flickr.com/photos/thirdangeluk/3799287378/in/photostream/
-- Alexander Kelly, 'bell tower steps' https://www.flickr.com/photos/thirdangeluk/3798461709/in/photostream/
+- Alexander Kelly, ['steps notice'](https://www.flickr.com/photos/thirdangeluk/3799287378/in/photostream/)
+- Alexander Kelly, ['bell tower steps'](https://www.flickr.com/photos/thirdangeluk/3798461709/in/photostream/)
 
 ###Illustrations from works scanned by the British Library
 - [Image taken from page 134 of 'Italian Pictures, drawn with pen and pencil. By S. M.'](https://c2.staticflickr.com/6/5477/11307026894_892ff39220_b.jpg)
