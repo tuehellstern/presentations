@@ -1,4 +1,4 @@
-<section data-background="https://c1.staticflickr.com/3/2829/11064736133_c254b442c9_b.jpg">
+<section data-background="https://c2.staticflickr.com/4/3748/11130870514_0ee2072c19_b.jpg">
 <br><br><br><h2 style="color:black">
 OA & Me
 </h2>
@@ -6,8 +6,15 @@ OA & Me
 
 ---
 
-Shawn Graham
-@electricarchaeo
-electricarchaeology.ca
+Shawn Graham<br>
+@electricarchaeo<br>
+electricarchaeology.ca<br>
 
+---
+
+<section align="right">
+- in my teaching
+- in my research
+- in my failures
+</section>
 ---
