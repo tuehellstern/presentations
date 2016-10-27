@@ -103,7 +103,7 @@ Note: the thing about doing that is that you quickly get a sense of which of you
 </section>
 ---
 <section data-background="blog.png">
-<h2 style="color:black" align="right">Sometimes, you have to [write](http://electricarchaeology.ca) your notes up</h2>
+<h2 style="color:black" align="right"><br><br><br><br><br>Sometimes, you have to [write](http://electricarchaeology.ca) your notes up</h2>
 </section>
 ---
 <section data-background="twitterpage.png">
@@ -118,7 +118,7 @@ Note: use of open source, open access materials
 
 ---
 ## writing in public without a net
-![](http://www.worldscientific.com/worldscibooks/10.1142/p981)
+![](http://www.themacroscope.org/2.0/wp-content/uploads/2015/02/p981hc_cov_revised-e1442568647299.jpg)
 
 http://themacroscope.org
 
