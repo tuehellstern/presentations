@@ -14,7 +14,11 @@ electricarchaeology.ca<br>
 
 <section align="right">
 + in my teaching
+
 + in my research
+
++ in my daily use of tech
+
 + in my failures
 </section>
 ---
@@ -48,7 +52,7 @@ Of sitting on data that might - somehow - in ways I can't quite imagine yet - be
 ---
 
 <section data-background="figsharebackground.png">
-I started putting all my data out there on figshare.
+<h3 style="color:black">I started putting all my data out there on figshare.</h3>
 ![](figshareshares.png)
 </section>
 
@@ -58,5 +62,12 @@ I made darn sure that people could find my written stuff.
 
 ---
 ![orcid](orcid.png)
-...which I plumbed into Scopus, into Figshare, into Google Scholar. If it plugs together, I plugged it good.
+
+...which I plumbed into Scopus, into Figshare, into Google Scholar. If it plumbs together, I plumbed it good.
+
 ---
+<section data-background="https://c2.staticflickr.com/6/5547/11300107675_13c9d40ea6_b.jpg">
+</section>
+Note: the thing about doing that is that you quickly get a sense of which of your works people actually read. And how they read it. Certain of my papers I've discovered are useful literature review padding.
+---
+
