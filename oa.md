@@ -63,7 +63,7 @@ I made darn sure that people could find my written stuff.
 ---
 ![orcid](orcid.png)
 
-...which I plumbed into Scopus, into Figshare, into Google Scholar. If it plumbs together, I plumbed it good.
+...which I plumbed into Scopus, into Figshare, into Google Scholar. <br><br>If it plumbs together, I plumbed it good.
 
 ---
 <section data-background="https://c2.staticflickr.com/6/5547/11300107675_13c9d40ea6_b.jpg">
@@ -71,3 +71,14 @@ I made darn sure that people could find my written stuff.
 Note: the thing about doing that is that you quickly get a sense of which of your works people actually read. And how they read it. Certain of my papers I've discovered are useful literature review padding.
 ---
 
+# what about teaching?
+
+---
+
++ haven't ordered a textbook once, in six years at Carleton, for any of my classes
++ *every* class uses resources that can be had from the open web or from the library
+
+---
+<section data-background="craftingbook.png">
+<font color="black">I even wrote my own damn open access workbook for one class that needed it.</font>
+</section>
