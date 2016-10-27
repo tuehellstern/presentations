@@ -41,7 +41,7 @@ I know the shame of having files that nobody will ever see.
 
 ---
 
-Of sitting on data that might - somehow - in ways I can't quite imagine yet - be useful to somebody else.
+Of sitting on data that might <br>- somehow - <br>- in ways I can't quite imagine yet - <br>be useful to somebody else.
 
 ---
 
@@ -72,7 +72,7 @@ Note: the thing about doing that is that you quickly get a sense of which of you
 
 ---
 
-# what about teaching?
+## what about teaching?
 
 ---
 
@@ -103,7 +103,7 @@ Note: the thing about doing that is that you quickly get a sense of which of you
 </section>
 ---
 <section data-background="blog.png">
-<h2 style="color:black">[Sometimes, you have to write your notes up](http://electricarchaeology.ca)</h2>
+<h2 style="color:black">Sometimes, you have to [write](http://electricarchaeology.ca) your notes up</h2>
 </section>
 ---
 <section data-background="twitterpage.png">
