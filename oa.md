@@ -111,10 +111,7 @@ Note: the thing about doing that is that you quickly get a sense of which of you
 Note: you can be really open in your practice if you tweet every bloody thought that comes into your head, as I do.
 ---
 <section data-background="tinyarchae.png">
-<h2 style="color:black">scholarship as performance art</h2>
-<br>or
-
-a procedurally generated soap opera
+<h2 style="color:black"><br><br>scholarship as performance art</h2>
 </section>
 Note: use of open source, open access materials
 
