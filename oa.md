@@ -103,7 +103,7 @@ Note: the thing about doing that is that you quickly get a sense of which of you
 </section>
 ---
 <section data-background="blog.png">
-<h2 style="color:black" align="right"><br><br><br><br><br>Sometimes, you have to [write](http://electricarchaeology.ca) your notes up</h2>
+<h2 style="color:black" align="right"><br><br><br><br><br><br><br>Sometimes, you have to [write](http://electricarchaeology.ca) your notes up</h2>
 </section>
 ---
 <section data-background="twitterpage.png">
@@ -112,7 +112,9 @@ Note: the thing about doing that is that you quickly get a sense of which of you
 Note: you can be really open in your practice if you tweet every bloody thought that comes into your head, as I do.
 ---
 <section data-background="tinyarchae.png">
+<div align="left"; style="background-color: grey; opacity: 0.8">
 <h2 style="color:black"><br><br>scholarship as performance art</h2>
+</div>
 </section>
 Note: use of open source, open access materials
 
