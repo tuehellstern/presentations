@@ -88,21 +88,22 @@ Note: the thing about doing that is that you quickly get a sense of which of you
 + some students even re-wrote parts of it
 ![](https://c2.staticflickr.com/4/3731/11106533473_18d818ed9d_b.jpg)
 ---
-<section data-background="daea">
+<section data-background="daea.png">
 </section>
 ---
-# what about research?
+
+## what about research?
 
 ---
 + What is it, _exactly_ that I actually do?
 
 ---
 <section data-background="opennotebook.png">
-# [An open research notebook](http://smgprojects.github.io)
+<h2>An open research [notebook](http://smgprojects.github.io)</h2>
 </section>
 ---
 <section data-background="blog.png">
-# [Sometimes, you have to write your notes up](http://electricarchaeology.ca)
+<h2>[Sometimes, you have to write your notes up](http://electricarchaeology.ca)</h2>
 </section>
 ---
 <section data-background="twitterpage.png">
@@ -111,17 +112,17 @@ Note: the thing about doing that is that you quickly get a sense of which of you
 Note: you can be really open in your practice if you tweet every bloody thought that comes into your head, as I do.
 ---
 <section data-background="tinyarchae.png">
-### scholarship as performance art
+<font color="black">## scholarship as performance art
 or
 
-a procedurally generated soap opera
+a procedurally generated soap opera</font>
 </section>
 Note: use of open source, open access materials
 
 ---
 
 # expanding the space
-![](smiths)
+![](smiths.png)
 
 ---
 # So. About Shawn.
@@ -139,8 +140,10 @@ Note: use of open source, open access materials
 
 ---
 <section data-background="https://c2.staticflickr.com/4/3808/11295235284_fdfe5a7f01_b.jpg">
-## privilege & failing in public
-
+<font color="black">## privilege 
+## & 
+##failing in public
+</font>
 Note:
 and I'm a white guy on the internet.
 if I want others to try this even a little bit, I have to go big. I gotta make it safe to try stuff, safe to fail. I have to figure out what works and what doesn't, because other people are not in a position to make mistakes. They have to get it right the first time.
@@ -153,9 +156,11 @@ if I want others to try this even a little bit, I have to go big. I gotta make i
 ## it's complicated.
 
 ---
-background images from the [British Library Flickr](https://www.flickr.com/photos/britishlibrary/) set of copyright-free images.
+### thanks
+#### @electricarchaeo
++ background images from the [British Library Flickr](https://www.flickr.com/photos/britishlibrary/) set of copyright-free images.
 
-find the source for this presentation at [http://github.com/shawngraham/presentations/oa.md](http://github.com/shawngraham/presentations/oa.md)
++ find the source for this presentation at [http://github.com/shawngraham/presentations/oa.md](http://github.com/shawngraham/presentations/oa.md)
 
 ---
 <small><small>
