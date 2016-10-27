@@ -100,9 +100,10 @@ Note: the thing about doing that is that you quickly get a sense of which of you
 + What is it, _exactly_ that I actually do?
 
 ---
-<section data-background="opennotebook.png">
+<section data-background="open
+.png">
 <div align="left"; style="background-color: grey; opacity: 0.8">
-<h2 style="color:black">An open research [notebook](http://smgprojects.github.io)</h2>
+<h2 style="color:black">An open research notebook(http://smgprojects.github.io)</h2>
 </div>
 </section>
 ---
