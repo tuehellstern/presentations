@@ -117,6 +117,12 @@ Note: you can be really open in your practice if you tweet every bloody thought 
 Note: use of open source, open access materials
 
 ---
+## writing in public without a net
+![](http://www.worldscientific.com/worldscibooks/10.1142/p981)
+
+http://themacroscope.org
+
+---
 
 ## expanding the space
 ![](smiths.png)
