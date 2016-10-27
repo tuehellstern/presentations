@@ -100,8 +100,7 @@ Note: the thing about doing that is that you quickly get a sense of which of you
 + What is it, _exactly_ that I actually do?
 
 ---
-<section data-background="open
-.png">
+<section data-background="opennotebook.png">
 <div align="left"; style="background-color: grey; opacity: 0.8">
 <h2 style="color:black">An open research notebook</h2>
 </div>
