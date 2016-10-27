@@ -117,11 +117,11 @@ Note: use of open source, open access materials
 
 ---
 
-# expanding the space
+## expanding the space
 ![](smiths.png)
 
 ---
-# So. About Shawn.
+## So. About Shawn.
 + trying to make OA and Open Source a habit of mind
   + for my self
   + for my students
@@ -148,7 +148,7 @@ if I want others to try this even a little bit, I have to go big. I gotta make i
 
 ---
 
-### oa & me. 
+## oa & me. 
 ## it's complicated.
 
 ---
