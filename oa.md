@@ -2,6 +2,7 @@
 <br><br><br><h2 style="color:black">.<br><br><br><br>
 OA & Me
 </h2>
+<h4>follow along at j.mp/oa-me</h4>
 </section>
 
 ---
