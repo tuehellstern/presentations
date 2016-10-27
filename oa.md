@@ -103,13 +103,13 @@ Note: the thing about doing that is that you quickly get a sense of which of you
 <section data-background="open
 .png">
 <div align="left"; style="background-color: grey; opacity: 0.8">
-<h2 style="color:black">An open research notebook(http://smgprojects.github.io)</h2>
+<h2 style="color:black">An open research notebook</h2>
 </div>
 </section>
 ---
 <section data-background="blog.png">
 <div align="left"; style="background-color: grey; opacity: 0.8">
-<h2 style="color:black" align="right"><br><br><br><br><br><br><br><br>Sometimes, you have to write your notes up</h2>
+<h2 style="color:black" align="right">Sometimes, you have to write your notes up</h2>
 </div>
 </section>
 ---
