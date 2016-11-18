@@ -1,6 +1,7 @@
 <section data-background="Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg" data-state="blur">
 <h1 style="color:black"> Ways to Avoid Being Eaten Alive <br> By Research</h1>
-<h3 style="color:black">Tom, Iza, Shawn<br>Copy this presentation at http://bit.ly/cunov18</h3>
+<h3 style="color:black">Tom, Iza, Shawn<br>Follow along at http://bit.ly/cunov18</h3>
+<small> and grab [the source here](https://github.com/shawngraham/presentations/blob/gh-pages/cunov18.md)</small>
 </section>
 ---
 
