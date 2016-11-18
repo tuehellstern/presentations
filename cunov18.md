@@ -54,6 +54,14 @@ A simple text editor and a citation manager are all you really need: futureproof
 
 ---
 
+## tagspaces
+
+[https://www.tagspaces.org/](https://www.tagspaces.org/)
+
+![](https://d2q4nobwyhnvov.cloudfront.net/a6e1d1d6-3387-4088-9dea-6084e49b8a9d/vUjNjgt-enX8q2A/content/v2-5/tagspaces-browsing.png)
+
+---
+
 ## Futureproof?
 
 + Keep it simple, students.
