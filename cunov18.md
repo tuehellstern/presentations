@@ -125,6 +125,7 @@ FOR THE LOVE OF GOD GET AND LEARN TO USE A CITATION MANAGER
 + [Zotero](http://zotero.org)
 + [Reclaim Hosting](http://reclaimhosting.com)
 + [Electric Archaeology](http://electricarchaeology.ca)
++ [Scrivener](https://www.literatureandlatte.com/)
 
 ---
 
